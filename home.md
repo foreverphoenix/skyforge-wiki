@@ -2,7 +2,7 @@
 title: Home
 description: Introduction
 published: true
-date: 2023-08-15T14:25:46.247Z
+date: 2023-08-15T14:26:29.470Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-03T19:30:32.167Z
@@ -40,3 +40,9 @@ Interested in the guided approach? Start here.
 ### Modular
 
 If you are not entirely new to modding, much of the ground covered in the **Beginner's Guide** may already be familiar to you. Instead, you may be interested in referencing the various articles hosted on this website as you build up your setup.
+
+# The Community
+
+## Contribute
+
+## Aetherius Modding

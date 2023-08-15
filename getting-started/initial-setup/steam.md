@@ -1,8 +1,8 @@
 ---
 title: Steam Installation
-description: How to install the Steam version of Skyrim
+description: How to perform a clean install of the Steam version of Skyrim SE.
 published: true
-date: 2023-08-15T15:31:32.322Z
+date: 2023-08-15T15:38:45.422Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z

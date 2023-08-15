@@ -2,13 +2,13 @@
 title: Nexus Virus Check
 description: About the automatic virus check performed by the Nexus.
 published: true
-date: 2023-08-15T15:57:11.409Z
+date: 2023-08-15T15:57:48.145Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:55:37.809Z
 ---
 
-## VirusTotal
+# VirusTotal
 
 All files that are uploaded to the Nexus will automatically be checked for viruses by [VirusTotal](https://www.virustotal.com/gui/home/upload).
 

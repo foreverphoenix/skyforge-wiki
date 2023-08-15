@@ -2,7 +2,7 @@
 title: Home
 description: Introduction
 published: true
-date: 2023-08-15T14:18:11.315Z
+date: 2023-08-15T14:18:35.546Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-03T19:30:32.167Z
@@ -10,7 +10,7 @@ dateCreated: 2023-08-03T19:30:32.167Z
 
 # The Skyforge Project
 
-The **Skyforge Project** is a beginner's guide and knowledge base for modding Skyrim SE created by members of the **Aetherius Modding** community. We aim to provide a comprehensive instructions to enthusiast-level modding and teach the skill set required to build a consistent, stable, and high-quality modded setup for Skyrim.
+The **Skyforge Project** is a beginner's guide and knowledge base for modding Skyrim SE created by members of the **Aetherius Modding** community. We aim to provide a comprehensive introduction to enthusiast-level modding and teach the skill set required to build a consistent, stable, and high-quality modded setup for Skyrim.
 
 ## What is "Modding"?
 

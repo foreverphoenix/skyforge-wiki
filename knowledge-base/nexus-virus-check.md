@@ -2,7 +2,7 @@
 title: Nexus Virus Check
 description: About the automatic virus check performed by the Nexus.
 published: true
-date: 2023-08-15T15:57:48.145Z
+date: 2023-08-15T15:58:24.058Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:55:37.809Z
@@ -16,7 +16,7 @@ You can view the report by clicking the **checkmark** in front of the file name.
 
 ![nexus-virus-check-green.png](/knowledge-base/nexus-virus-check-green.png)
 
-Files that exceed 250MB in size are manually verified. Occasionally, VirusTotal will detect *false positives* which usually happens with tools (see Mod Organizer 2) in which case the file is also manually verified.
+Files that exceed 250MB in size are manually verified. Occasionally, VirusTotal will detect *false positives* which may happen with tools (see **Mod Organizer 2**) in which case the file is also manually verified.
 
 ## Mod Organizer 2
 

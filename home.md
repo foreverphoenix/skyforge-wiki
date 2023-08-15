@@ -2,7 +2,7 @@
 title: Home
 description: Introduction
 published: true
-date: 2023-08-15T14:18:57.039Z
+date: 2023-08-15T14:19:06.429Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-03T19:30:32.167Z
@@ -14,9 +14,7 @@ The **Skyforge Project** is a beginner's guide and knowledge base for modding Sk
 
 ## What is "Modding"?
 
-A distinction is generally made between people who create mods and people who download mods to build a custom setup. This distinction becomes increasingly blurry in high-level Skyrim modding.
-
-To build a setup that is truly *yours* there is no choice but to dip your toes into mod-making, be it for a patch, custom edits to an existing mod, or to create something from scratch when you realise nobody else has done it yet.
+A distinction is generally made between people who create mods and people who download mods to build a custom setup. This distinction becomes increasingly blurry in high-level Skyrim modding. To build a setup that is truly *yours* there is no choice but to dip your toes into mod-making, be it for a patch, custom edits to an existing mod, or to create something from scratch when you realise nobody else has done it yet.
 
 > **Learning how to mod requires time and effort.**
 > The more ambitious you are, the bigger and the more complex your dream modlist, the more time and effort it will take. Modding, like any other skill, requires a degree of commitment.

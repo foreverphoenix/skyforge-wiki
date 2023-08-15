@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-15T14:44:13.954Z
+date: 2023-08-15T14:44:42.445Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -10,9 +10,9 @@ dateCreated: 2023-08-15T14:28:04.744Z
 
 # Skyrim Setup
 
-Many versions and ports of Skyrim SE exist, and not all are usable for modding. The **Skyforge** resources are written specifically for the *Steam* or *GOG* version of **Skyrim Special Edition**.
+Many versions and ports of Skyrim SE exist and not all are usable for modding. The **Skyforge** resources are written specifically for the *Steam* or *GOG* version of **Skyrim Special Edition**.
 
-Please read the article linked below to learn more.
+For more details, read the article linked below:
 
 - [Skyrim Versions *How to pick the correct version of Skyrim for modding.*](/getting-started/initial-setup/skyrim-versions)
 {.links-list}

@@ -2,7 +2,7 @@
 title: Mod Organizer 2
 description: How to set up Mod Organizer 2 for Skyrim SE
 published: true
-date: 2023-08-15T16:06:06.904Z
+date: 2023-08-15T16:12:49.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:37:50.614Z
@@ -29,7 +29,7 @@ Mod Organizer 2 is hosted on the Nexus and on Github.
 > If you do not have **Nexus Premium**, you will need to click **Download** again on the next page after a brief countdown.
 {.is-info}
 
-![download-mo2.png](/getting-started/initial-setup/download-mo2.png)
+![download-mo2.png](/getting-started/initial-setup/download-mo2.png){.align-center}
 
 ## Installing MO2
 
@@ -52,44 +52,41 @@ You will be asked where to install Mod Organizer 2.
 > For now, make sure you have <u>at least 50GB of free space</u> on whichever hard drive you choose. That will be sufficient to get started.
 {.is-success}
 
-![mo2-installation-directory.png](/getting-started/initial-setup/mo2-installation-directory.png)
+![mo2-installation-directory.png](/getting-started/initial-setup/mo2-installation-directory.png){.align-center}
 
 - For the rest of the installer, you can simply keep clicking **Next** to install the tool with all components into your chosen directory.
 - Click **Finish** once all files have been extracted.
 - Mod Organizer 2 will be launched automatically so you can proceed with the next step.
 
-### Instance Setup
+## Instance Setup
 
-After the initial installation process, the **Instance Manager** will open where we will create a new **portable instance**. These are self-contained and allow you to run as many copies of Mod Organizer 2 as you like, for various games or different setups.
+After the initial installation process, the **Instance Manager** will open where we will create a new **portable instance**. These are <u>self-contained</u> and allow you to run as many copies of Mod Organizer 2 as you like, for various games or different setups.
 
-(I personally run five or more instances at any given time, for both Skyrim SE and Fallout 4, none of which interfere with each other.)
+- Click the **Create new instance** button to proceed.
 
-Click the **Create new instance** button to proceed.
-
-![MO2 New Instance](/Pictures/skyforge/tool-setup/mo2/mo2-new-instance.png)
+![mo2-new-instance.png](/getting-started/initial-setup/mo2-new-instance.png){.align-center}
   
 - Click **Next** in the configuration window.
 - Select **Create a portable instance** on the next page.
 - On the next page in the configuration wizard, select **Skyrim Special Edition**.
 - Click **Next** again on the following page to confirm using your MO2 installation folder for all sub directories.
 - Click **Connect to Nexus**\* and switch to the browser to authorise MO2 to connect your account.
-	- In the MO2 installer, you should see: **Linked with Nexus successfully**.
+	- *In the MO2 installer, you should see: **Linked with Nexus successfully**.*
 - Proceed to the next step and click **Finish** to finalise your new MO2 instance.
 
 <font size="2">\**If you are not prompted to connect MO2 to the Nexus, you have likely already done this for a previous MO2 installation.*</font>
 
-### First Launch
+## First Launch
 
 Mod Organizer 2 should launch automatically.
 
-- Click **No** when asked to see the tutorial.
-	- We will go over the various parts of MO2 in this guide.
+- Go through the tutorial if you never used MO2 before.
 - If asked whether MO2 should handle NXM links, click **Yes**.
-	- This allows automatic downloads from the Nexus through MO2.
+	- *This enables automatic downloads from the Nexus through MO2.*
 
-Before we do anything else, let's disable the log at the bottom. We are not going to need it.
+I recommend disabling the log at the bottom as it is mostly unnecessary:
 
-![disable mo2 log](/Pictures/skyforge/tool-setup/mo2/disable-mo2-log.png)
+![mo2-new-instance.png](/getting-started/initial-setup/mo2-new-instance.png){.align-center}
 
 I also recommend right-clicking the MO2 icon on your taskbar and **pinning** it for quick access.
 
@@ -97,7 +94,7 @@ I also recommend right-clicking the MO2 icon on your taskbar and **pinning** it 
 
 Open the **Settings** by clicking the first icon on the right in the toolbar.
 
-![MO2 Open Settings](/Pictures/skyforge/tool-setup/mo2/mo2-open-settings.png)
+![MO2 Open Settings](/Pictures/skyforge/tool-setup/mo2/mo2-open-settings.png){.align-center}
 
 ### Settings: General
 

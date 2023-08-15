@@ -2,7 +2,7 @@
 title: Steam Installation
 description: How to install the Steam version of Skyrim
 published: true
-date: 2023-08-15T15:30:28.123Z
+date: 2023-08-15T15:31:32.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z
@@ -87,7 +87,7 @@ Your Steam installation is likely located in `C:\Program Files x86\Steam\` and, 
 
 The problem is that `C:\Program Files\` and `C:\Program Files x86\` are so-called **UAC-protected folders** (UAC = user account control). UAC-protected folders in Windows are special because they require admin privileges for read/write permissions which can break various modding tools.
 
-**Therefore Skyrim SE must be installed to a location outside any UAC-protected folders.**
+That is why Skyrim SE should always be installed outside of these folders.
 
 ### Steam Libraries
 

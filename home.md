@@ -2,7 +2,7 @@
 title: Home
 description: Introduction
 published: true
-date: 2023-08-15T14:17:31.088Z
+date: 2023-08-15T14:18:11.315Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-03T19:30:32.167Z
@@ -21,3 +21,5 @@ To build a setup that is truly *yours* there is no choice but to dip your toes i
 > **Learning how to mod requires time and effort.**
 > The more ambitious you are, the bigger and the more complex your dream modlist, the more time and effort it will take. Modding, like any other skill, requires a degree of commitment.
 {.is-warning}
+
+If you are more interested in *playing* with mods as opposed to building your own setup, consider Wabbajack!

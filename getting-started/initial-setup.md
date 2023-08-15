@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-15T14:58:40.743Z
+date: 2023-08-15T14:59:06.456Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-15T14:28:04.744Z
 
 Many versions and ports of Skyrim SE exist and not all are usable for modding. The **Skyforge** resources are written specifically for the *Steam* or *GOG* version of **Skyrim Special Edition** (Skyrim SE).
 
-> With very few exceptions, the ideal version for modding is currently Skyrim SE 1.6.640 (Steam) or 1.6.659 (GOG).
+> For the vast majority, the ideal version for modding is currently Skyrim SE 1.6.640 (Steam) or 1.6.659 (GOG).
 {.is-success}
 
 - **Skyrim Legendary Edition** (SLE) has been superseded by Skyrim SE.

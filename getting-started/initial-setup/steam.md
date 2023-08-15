@@ -2,85 +2,84 @@
 title: Steam Installation
 description: How to install the Steam version of Skyrim
 published: true
-date: 2023-08-15T15:14:51.474Z
+date: 2023-08-15T15:22:06.550Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z
 ---
 
-# Clean Install
+# Uninstallation
 
 The installation location as well as left-over files from mods can affect your new setup. It is therefore recommended to start with a clean install of the game.
 
-## Uninstall
-
-If you currently have Skyrim installed, find the game in your Steam Library and uninstall it
+If you currently have Skyrim installed, find the game in your Steam Library and uninstall it:
 
 1. Right-click it and select **Manage** > **Uninstall**.
 2. Click **Uninstall** again in the message box that follows to confirm.
 
 ![uninstall-skyrim.png](/getting-started/initial-setup/uninstall-skyrim.png)
 
-### Creation Kit
+## Creation Kit
 
 If you had the **Creation Kit** for Skyrim SE installed through Steam, uninstall it in the same way.
 
 ## Mod Files
 
 > Skip this step if you never modded Skyrim before.
-{.is-warning}
+{.is-info}
 
 Steam will uninstall all vanilla files, but it will not touch mods. Any leftover files added by mods must be deleted manually.
 
-- Navigate to where the game was installed.
-	- Likely: `C:\Program Files x86\Steam\steamapps\common\`
+- Navigate to where the game was installed which is likely: `C:\Program Files x86\Steam\steamapps\common\`.
 - If there is still a **Skyrim Special Edition** folder in this location, delete it.
 
 ## Documents Folder
 
-{{< alert color="warning" >}}Skip this step if you never ran Skyrim SE on this PC before (folder would not exist).{{< /alert >}}
+> Skip this step if you never ran Skyrim SE on this PC before (folder would not exist).
+{.is-info}
 
-Next, we will take a look at the **Documents** folder. Navigate to:
+Next, we will take a look at the **Documents** folder.
 
-`C:\Users\<Your User Name>\Documents\My Games\Skyrim Special Edition\`
- 
+- Navigate to: `C:\Users\<Your User Name>\Documents\My Games\Skyrim Special Edition\`.
+
 This directory may contain multiple files and folders:
 
 - The **Skyrim.ini** and **SkyrimPrefs.ini** are the game’s primary configuration files.
-- There may also be a **saves** folder which, you guessed it, contains your save games.
+- There may also be a **saves** folder which contains your save games.
 - Lastly, the Documents folder may also include mod-generated files such as logs.
 
-> **Warning:** If you have save files that you want to keep, back them up now.
+> If you have save files that you want to keep, back them up now.
+{.is-warning}
 
-**Delete the entire Skyrim Special Edition folder.**
+- **Delete the entire Skyrim Special Edition folder.**
 
 The folder and INI files will be regenerated upon launching the game after the reinstallation.
 
-{{< alert color="success" >}}And that is all. Skyrim SE is now completely removed from your system.{{< /alert >}}
+> And that is all. Skyrim SE is now completely removed from your system.
+{.is-success}
+
+# Reinstallation
 
 ## Game Language
 
-Skyrim supports a bunch of different languages natively, but mods do not. Since many mods also do not require translations in the first place and some of the ones that do have third-party translations available, it is theoretically possible to play modded in Skyrim in a language other than English.
+Skyrim supports various languages natively, but mods do not. Since many mods also do not require translations in the first place and some of the ones that do have third-party translations available, it is theoretically possible to play modded in Skyrim in a language other than English.
 
 However, it would complicate your setup immensely. Translations, where available, may be outdated or incomplete. They may not cover voice acting. They may require editing of dozens of texture templates in Photoshop. They may not exist for some of your mods at all.
 
 Translating any records (and certain textures!) untouched by existing patches plus fixing conflicts between translations and mods will add a hefty amount of work on top of everything else. **I do not recommend it, especially not for a beginner.**
 
-> An English-language installation of Skyrim is <u>mandatory</u> for this guide.
-
 - Right-click **The Elder Scrolls V: Skyrim Special Edition** in your Steam games library.
 - Select **Properties** and switch to the **Language** tab.
 - Ensure that the language is set to **English**.
 
-![english](/Pictures/skyforge/steam-skyrim-english.png)
+![steam-skyrim-english.png](/getting-started/initial-setup/steam-skyrim-english.png)
 
 ## Installation Directory
 
 **The location Skyrim is installed to matters.**
 
-For one, it is highly recommended to install the game to your fastest drive, ideally an SSD, which will reduce load times. Running Skyrim from an HDD may negatively impact performance, causing stuttering and frame drops.
-
-Additionally, Skyrim must not be located within any UAC-protected folders.
+1. Skyrim should be installed on your fastest drive, ideally an SSD, which will reduce load times and potentially improve performance.
+2. Skyrim must not be located within any UAC-protected folders.
 
 ### UAC-Protected Folders
 

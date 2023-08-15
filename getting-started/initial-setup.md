@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-15T14:59:06.456Z
+date: 2023-08-15T15:33:43.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -25,6 +25,6 @@ The **Skyrim Anniversary Edition** (AE) is a DLC for Skyrim SE containing all Cr
 
 Install either the Steam or GOG version of Skyrim:
 
-- [Steam Installation *How to install the Steam version of Skyrim SE.*](/getting-started/initial-setup/steam)
-- [GOG Installation *How to install the GOG version of Skyrim SE.*](/getting-started/initial-setup/gog)
+- [Steam Installation *How to install the Steam version of Skyrim SE.*](/en/getting-started/initial-setup/steam)
+- [GOG Installation *How to install the GOG version of Skyrim SE.*](/en/getting-started/initial-setup/gog)
 {.links-list}

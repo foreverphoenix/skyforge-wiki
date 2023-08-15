@@ -2,7 +2,7 @@
 title: Steam Installation
 description: How to install the Steam version of Skyrim
 published: true
-date: 2023-08-15T15:22:06.550Z
+date: 2023-08-15T15:26:40.306Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z
@@ -83,19 +83,20 @@ Translating any records (and certain textures!) untouched by existing patches pl
 
 ### UAC-Protected Folders
 
-Your Steam installation is probably located under `C:\Program Files x86\Steam\` and, by default, all Steam games are installed inside the Steam directory under `\Steam\steamapps\common\<Game>\`.
+Your Steam installation is likely located in `C:\Program Files x86\Steam\` and, by default, all Steam games are installed inside the Steam directory under `\Steam\steamapps\common\<Game>\`.
 
 The problem is that `C:\Program Files\` and `C:\Program Files x86\` are so-called **UAC-protected folders** (UAC = user account control). UAC-protected folders in Windows are special because they require admin privileges for read/write permissions which can break various modding tools.
 
-**Because of this, Skyrim SE must be installed to a location outside any UAC-protected folders.**
+**Therefore Skyrim SE must be installed to a location outside any UAC-protected folders.**
 
 ### Steam Libraries
 
-When installing a game through Steam, you can select any of your **Steam Libraries** as the installation folder. The default Steam Library is within the Steam installation itself.
+When installing a game through Steam, you can select any of your **Steam Libraries** as the installation folder. The default Steam Library is within the Steam installation itself: `\Steam\steamapps\common\`.
 
 If you installed Steam in` C:\Program Files x86\` you will need to create a new Steam Library in a different location.
 
-{{< alert color="warning" >}}Skip ahead to **Reinstalling Skyrim** if you already have a second Steam Library outside UAC-protected folders.{{< /alert >}}
+> Skip ahead to **Reinstalling Skyrim** if you already have a second Steam Library outside UAC-protected folders.
+{.is-info}
 
 By default, you can only have one Steam Library per hard drive. If you want to create a second Steam Library on the same hard drive that you installed Steam on, please use LostDragonist’s [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) and follow the instructions from the link.
 
@@ -107,13 +108,13 @@ If you want to create a new Steam Library on another hard drive, follow these st
 
 Once set up, the new Steam Library can be selected as the installation directory upon installing a new game.
 
-![Add Steam Library](/Pictures/skyforge/add-steam-library.png)
+![add-steam-library.png](/getting-started/initial-setup/add-steam-library.png)
 
 ## Reinstalling Skyrim
 
-Now you can reinstall Skyrim. Find the game in the Steam Library tab and click the big blue Install button.
+Now you can reinstall Skyrim. Find the game in the **Library** tab in Steam and click the big blue **Install** button.
 
-**As the installation location choose a Steam Library on your fastest hard drive and outside UAC-protected folders.**
+> As the installation location choose a Steam Library on your fastest hard drive and outside UAC-protected folders.
 
 Proceed when the download is completed.
 

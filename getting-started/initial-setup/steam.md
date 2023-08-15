@@ -2,7 +2,7 @@
 title: Steam Installation
 description: How to install the Steam version of Skyrim
 published: true
-date: 2023-08-15T15:26:59.081Z
+date: 2023-08-15T15:30:28.123Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z
@@ -112,16 +112,16 @@ Once set up, the new Steam Library can be selected as the installation directory
 
 ## Reinstalling Skyrim
 
-Now you can reinstall Skyrim. Find the game in the **Library** tab in Steam and click the big blue **Install** button.
+Now you can reinstall Skyrim.
 
-> As the installation location choose a Steam Library on your fastest hard drive and outside UAC-protected folders.
-{.is-warning}
+- Find the game in the **Library** tab in Steam and click the big blue **Install** button.
+- As the installation location choose a Steam Library on your fastest hard drive **and** outside UAC-protected folders.
 
 Proceed when the download is completed.
 
-![Install Skyrim](/Pictures/skyforge/install-skyrim.png)
+![install-skyrim.png](/getting-started/initial-setup/install-skyrim.png)
 
-## Test Run
+# Test Run
 
 At this point, we should see if Skyrim launches properly. Running the game once serves multiple purposes:
 
@@ -131,21 +131,15 @@ At this point, we should see if Skyrim launches properly. Running the game once 
 
 **Always remember to launch Skyrim once after updating or reinstalling it, or after verifying game files.**
 
-Launch the game through Steam.
+## Skyrim Launcher
 
-A message box will pop up, informing you that Skyrim SE will now be configured based on your hardware. If Skyrim is unable to detect your hardware, it is likely because you have a newer graphics card which is not recognised; you can ignore the warning.
+Start the game through Steam to open the launcher.
+
+A message box will pop up, informing you that Skyrim SE will now be configured based on your hardware. If Skyrim is unable to detect your hardware, it is likely because you have a newer graphics card which is not recognised and you can ignore the warning.
 
 - Click **OK** twice to confirm (INI file edits are covered in a different article).
 - Click the **PLAY** option in the launcher and wait until you are in the Skyrim main menu.
+- Quit the game from the main menu.
 
-{{< alert color="warning" >}}**Anniversary Edition:** Skyrim will prompt you with a message box, then proceed to download the creations. Wait for it to finish.{{< /alert >}}
-
-Quit the game from the main menu.
-
-{{< alert color="success" >}}If you got this far, everything appears to be running smoothly and you are ready to start modding.{{< /alert >}}
-
----
-
-#### If you are currently working through the Core Module, return to [Step 1](/skyforge/beginners-guide/step1/#nexus-mods).
-
-#### Recommended next step: [MO2 Setup](/skyforge/modding-resources/mo2-setup/).
+> **Anniversary Edition:** Skyrim will prompt you with a message box in the main menu, then proceed to download the Creations. Wait for it to finish.
+{.is-info}

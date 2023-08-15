@@ -2,7 +2,7 @@
 title: Steam Installation
 description: How to install the Steam version of Skyrim
 published: true
-date: 2023-08-15T15:26:53.608Z
+date: 2023-08-15T15:26:59.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z
@@ -115,7 +115,7 @@ Once set up, the new Steam Library can be selected as the installation directory
 Now you can reinstall Skyrim. Find the game in the **Library** tab in Steam and click the big blue **Install** button.
 
 > As the installation location choose a Steam Library on your fastest hard drive and outside UAC-protected folders.
-{.is-success}
+{.is-warning}
 
 Proceed when the download is completed.
 

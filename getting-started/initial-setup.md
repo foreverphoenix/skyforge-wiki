@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-15T14:39:12.015Z
+date: 2023-08-15T14:39:42.942Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -17,4 +17,8 @@ dateCreated: 2023-08-15T14:28:04.744Z
 
 - [Steam Installation *How to install the Steam version.*](/getting-started/initial-setup/steam)
 - [GOG Installation *How to install the GOG version.*](/getting-started/initial-setup/gog)
+{.links-list}
+
+- [Requirements *Server and database prerequisites.*](/install/requirements)
+- [Installation Guide *Detailed installation instructions for all platforms.*](/install)
 {.links-list}

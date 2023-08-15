@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-15T14:57:38.596Z
+date: 2023-08-15T14:58:40.743Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -22,11 +22,6 @@ Many versions and ports of Skyrim SE exist and not all are usable for modding. T
 The **Skyrim Anniversary Edition** (AE) is a DLC for Skyrim SE containing all Creations and has no immediate impact on modding. Whether you own it is irrelevant.
 
 ## Clean Install
-
-For more details, read the article linked below:
-
-- [Skyrim Versions *How to pick the correct version of Skyrim for modding.*](/getting-started/initial-setup/skyrim-versions)
-{.links-list}
 
 Install either the Steam or GOG version of Skyrim:
 

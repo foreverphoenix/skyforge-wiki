@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-15T14:57:24.016Z
+date: 2023-08-15T14:57:38.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -19,7 +19,7 @@ Many versions and ports of Skyrim SE exist and not all are usable for modding. T
 - The **PC Gamepass** and **Console** versions of Skyrim SE are too limited for modding.
 - The **VR** port of Skyrim is similar to but not the same as Skyrim SE.
 
-The **Skyrim Anniversary Edition** (AE) is a DLC for Skyrim SE containing all Creations and has no impact on modding. Whether you own it is irrelevant.
+The **Skyrim Anniversary Edition** (AE) is a DLC for Skyrim SE containing all Creations and has no immediate impact on modding. Whether you own it is irrelevant.
 
 ## Clean Install
 

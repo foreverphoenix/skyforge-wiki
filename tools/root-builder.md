@@ -2,7 +2,7 @@
 title: Root Builder
 description: How to install the Root Builder plugin for Mod Organizer 2.
 published: true
-date: 2023-08-16T08:46:37.754Z
+date: 2023-08-16T09:17:08.891Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T08:46:37.754Z
@@ -36,8 +36,6 @@ There are multiple advantages to using **Root Builder**:
 
 **Root Builder** is hosted on the Nexus.
 
-- Download the latest version of [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720?tab=files) (click **Mod Manager Download**).
-- In Mod Organizer 2, switch to the **Downloads** tab in the right pane.
-- Right-click the downloaded mod and select **Open File**.
+- Download the latest version of [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720?tab=files).
 - Extract the **rootbuilder** folder to `\Mod Organizer 2\plugins\`.
 - Restart Mod Organizer 2.

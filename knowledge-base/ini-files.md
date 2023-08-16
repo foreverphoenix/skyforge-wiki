@@ -2,7 +2,7 @@
 title: INI Files
 description: About the default (vanilla) INI files.
 published: true
-date: 2023-08-16T11:36:00.880Z
+date: 2023-08-16T11:40:19.020Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T11:36:00.880Z
@@ -59,7 +59,7 @@ Going forward, I recommend not bothering at all with the default set of INIs, no
 
 Instead, make use of your <u>profile-specific INIs</u> in [Mod Organizer 2](/getting-started/initial-setup/mod-organizer-2). Each profile in a MO2 instance can hold a unique set of INIs that will replace the default ones when the game is started with that profile selected.
 
-To enable profile-specific INI files, open the [profile settings](/Pictures/skyforge/tool-setup/mo2/mo2-profiles-settings.png) and ensure **Use profile-specific Game INI files** is enabled. These INI files will be saved under `\Mod Organizer 2\profiles\<your profile>\`.
+To enable profile-specific INI files, open the [profile settings](/basics/mo2-profiles-settings.png) and ensure **Use profile-specific Game INI files** is enabled. These INI files will be saved under `\Mod Organizer 2\profiles\<your profile>\`.
 
 [BethINI](/tools/bethini) is able to target profile-specific INIs.
 

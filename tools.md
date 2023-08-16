@@ -2,7 +2,7 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-16T09:43:56.936Z
+date: 2023-08-16T12:39:13.420Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
@@ -26,4 +26,20 @@ Always install plugins into the `\Mod Organizer 2\plugins\` folder and restart M
 - [Root Builder *Enables management of root folder files.*](/en/tools/root-builder)
 - [Crash Log Tools *Improves crash logs and makes them accessible through MO2.*](/en/tools/crash-log-tools)
 - [LOOT Warning Checker *Integrates LOOT warnings into the MO2 warning system.*](/en/tools/loot-warning-checker)
+{.links-list}
+
+# Modding Tools
+
+- [Creation Kit *Purpose.*](/en/tools/creation-kit)
+- [SSEEdit *Purpose.*](/en/tools/sseedit)
+- [BethINI *Purpose.*](/en/tools/bethini)
+- [LOOT *Purpose.*](/en/tools/loot)
+- [Synthesis *Purpose.*](/en/tools/)
+- [NifSkope *Purpose.*](/en/tools/nifskope)
+- [Bethesda Archive Extractor *Purpose.*](/en/tools/bae)
+- [Cathedral Assets Optimizer *Purpose.*](/en/tools/cao)
+- [SSELODGen *Purpose.*](/en/tools/sselodgen)
+- [DynDOLOD *Purpose.*](/en/tools/dyndolod)
+- [ACMOS Road Generator *Purpose.*](/en/tools/acmos-road-generator)
+
 {.links-list}

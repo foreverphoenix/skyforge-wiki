@@ -1,8 +1,8 @@
 ---
-title: Tools
-description: 
+title: Tool Installation
+description: Installation instructions for modding tools.
 published: true
-date: 2023-08-05T08:01:30.626Z
+date: 2023-08-16T08:10:08.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z

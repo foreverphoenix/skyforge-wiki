@@ -2,7 +2,7 @@
 title: Tools Folder
 description: How and where to set up a modding tools folder
 published: true
-date: 2023-08-16T09:41:37.701Z
+date: 2023-08-16T09:42:29.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T09:41:37.701Z
@@ -29,7 +29,7 @@ Keeping tools within your MO2 instance is only necessary if you want to include 
 
 I recommend using a centralised, shared folder for every setup that is not supposed to become a Wabbajack list. Advantages include the ability to share tools between setups and even games (Skyrim SE and Fallout 4 share many tools). They are also easier to update.
 
-## Version Numbers
+# Version Numbers
 
 When adding to your Tools folder, I recommend including the version number in the name of the folder to better be able to keep track of which versions you installed. This does require you to update the folder name in the MO2 executable settings after updating a tool, but that becomes routine quickly enough.
 

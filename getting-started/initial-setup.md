@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-16T08:49:15.003Z
+date: 2023-08-16T09:20:27.556Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -40,9 +40,9 @@ With Skyrim all set up, it is time to create a new instance of Mod Organizer 2 w
 
 All Mod Organizer 2 plugins listed below are *optional* with the exception of **BSA Extractor 2** which you should <u>not</u> skip.
 
-- [BSA Extractor 2 *Fixes file corruption when extracting BSAs through MO2.*](/en/getting-started/initial-setup/mod-organizer-2)
-- [Root Builder *Enables management of root folder files through MO2.*](/en/tools/root-builder)
-{.links-list}
+- [BSA Extractor 2 *Fixes file corruption when extracting BSAs.*](/en/tools/bsa-extractor-2)
+- [Root Builder *Enables management of root folder files.*](/en/tools/root-builder)
+- [Crash Log Tools *Improves crash logs and makes them accessible through MO2.*](/en/tools/crash-log-tools){.links-list}
 
 ## INI Files
 

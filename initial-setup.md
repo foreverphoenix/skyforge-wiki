@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-16T12:28:19.846Z
+date: 2023-08-16T12:32:32.124Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -53,10 +53,15 @@ All Mod Organizer 2 plugins listed below are *optional*. I recommend installing 
 
 Various settings for the vanilla game can be configured in the Skyrim.ini and SkyrimPrefs.ini files. I recommend using BethINI to configure and optimise the set of INIs attached to your Mod Organizer 2 profile. This will not affect the default set under `\<Your User Name>\Documents\Skyrim Special Edition\`.
 
-- [INI Files *About the default (vanilla) INI files.*](/en/knowledge-base/ini-files)
 - [INI Configuration *How to modify the vanilla INI files with BethINI.*](/en/initial-setup/ini-config)
 {.links-list}
 
 # Creations
+
+Since Skyrim SE 1.6.x, everyone owns at least the four free Creations (Fishing, Survival, Rare Curios, Saints & Seducers), though not everyone picked up the remaining Creations or the full Anniversary Edition DLC.
+
+Forgoing the AE DLC should not negatively impact your modding experience but skipping the four free Creations is difficult as an increasing amount of mods, including the *Unofficial Skyrim Special Edition Patch*, now require them. Skipping the USSEP significantly complicates matters because so many other mods require it.
+
+Even if you are completely opposed to using the four free Creations, I recommend installing them. **Survival Mode** can be easily neutralised by disabling the prompt and the mediocre **Saints & Seducers** quest can be completely replaced with a full remake. Finally, the **Fishing** quests can be removed by installing the reduced cut. This may be a good compromise between removing poor quality Creation content from your game while still being able to keep the plugins as master files to dependent mods like the USSEP.
 
 # Script Extender

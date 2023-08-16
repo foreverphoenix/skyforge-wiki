@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-16T12:32:32.124Z
+date: 2023-08-16T12:48:20.583Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -58,10 +58,34 @@ Various settings for the vanilla game can be configured in the Skyrim.ini and Sk
 
 # Creations
 
+- [Creation Club *What is the Creation Club?*](/en/knowledge-base/creation-club)
+{.links-list}
+
 Since Skyrim SE 1.6.x, everyone owns at least the four free Creations (Fishing, Survival, Rare Curios, Saints & Seducers), though not everyone picked up the remaining Creations or the full Anniversary Edition DLC.
 
 Forgoing the AE DLC should not negatively impact your modding experience but skipping the four free Creations is difficult as an increasing amount of mods, including the *Unofficial Skyrim Special Edition Patch*, now require them. Skipping the USSEP significantly complicates matters because so many other mods require it.
 
 Even if you are completely opposed to using the four free Creations, I recommend installing them. **Survival Mode** can be easily neutralised by disabling the prompt and the mediocre **Saints & Seducers** quest can be completely replaced with a full remake. Finally, the **Fishing** quests can be removed by installing the reduced cut. This may be a good compromise between removing poor quality Creation content from your game while still being able to keep the plugins as master files to dependent mods like the USSEP.
 
+## Managing Creations
+
+- [Importing Creations *How to import creations into MO2 as mods with Curation Club.*](/en/initial-setup/importing-creations)
+{.links-list}
+
 # Script Extender
+
+The Skyrim Script Extender is one of the most important mods/tools for Skyrim. It is required by a multitude of mods, including most essentials, which is why it should always be installed.
+
+## SKSE Installation
+
+- [Regular *Installing the Script Extender into the root folder.*](/en/initial-setup/skse-regular)
+- [Root Builder *Installing the Script Extender with Root Builder.*](/en/initial-setup/skse-regular)
+{.links-list}
+
+# Tool Setup
+
+Tool Folder.
+
+## Creation Kit
+
+## SSEEdit

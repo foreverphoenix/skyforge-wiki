@@ -2,7 +2,7 @@
 title: Steam Installation
 description: How to perform a clean install of the Steam version of Skyrim SE.
 published: true
-date: 2023-08-15T15:38:45.422Z
+date: 2023-08-16T12:17:54.477Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z
@@ -17,7 +17,7 @@ If you currently have Skyrim installed, find the game in your Steam Library and 
 1. Right-click it and select **Manage** > **Uninstall**.
 2. Click **Uninstall** again in the message box that follows to confirm.
 
-![uninstall-skyrim.png](/getting-started/initial-setup/uninstall-skyrim.png)
+![uninstall-skyrim.png](/getting-started/initial-setup/uninstall-skyrim.png){.align-center}
 
 ## Creation Kit
 
@@ -72,7 +72,7 @@ Translating any records (and certain textures!) untouched by existing patches pl
 - Select **Properties** and switch to the **Language** tab.
 - Ensure that the language is set to **English**.
 
-![steam-skyrim-english.png](/getting-started/initial-setup/steam-skyrim-english.png)
+![steam-skyrim-english.png](/getting-started/initial-setup/steam-skyrim-english.png){.align-center}
 
 ## Installation Directory
 
@@ -108,7 +108,7 @@ If you want to create a new Steam Library on another hard drive, follow these st
 
 Once set up, the new Steam Library can be selected as the installation directory upon installing a new game.
 
-![add-steam-library.png](/getting-started/initial-setup/add-steam-library.png)
+![add-steam-library.png](/getting-started/initial-setup/add-steam-library.png){.align-center}
 
 ## Reinstalling Skyrim
 
@@ -119,7 +119,7 @@ Now you can reinstall Skyrim.
 
 Proceed when the download is completed.
 
-![install-skyrim.png](/getting-started/initial-setup/install-skyrim.png)
+![install-skyrim.png](/getting-started/initial-setup/install-skyrim.png){.align-center}
 
 # Test Run
 

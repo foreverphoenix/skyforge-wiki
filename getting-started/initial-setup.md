@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-16T11:42:56.236Z
+date: 2023-08-16T12:07:31.323Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -49,10 +49,14 @@ All Mod Organizer 2 plugins listed below are *optional*. I recommend installing 
 - [NIF Preview *Adds the ability to preview and compare meshes side-by-side.*](/tools/nif-preview)
 {.links-list}
 
-## INI Files
+# INI Files
 
-- [INI Files *Adds the ability to preview and compare meshes side-by-side.*](/knowledge-base/ini-files)
+Various settings for the vanilla game can be configured in the Skyrim.ini and SkyrimPrefs.ini files. I recommend using BethINI to configure and optimise the set of INIs attached to your Mod Organizer 2 profile. This will not affect the default set under `\<Your User Name>\Documents\Skyrim Special Edition\`.
+
+- [INI Files *About the default (vanilla) INI files.*](/knowledge-base/ini-files)
+- [INI Configuration *How to modify the vanilla INI files with BethINI.*](/getting-started/initial-setup/ini-config)
 {.links-list}
 
-## Creations
+# Creations
 
+# Script Extender

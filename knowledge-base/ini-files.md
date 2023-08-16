@@ -2,7 +2,7 @@
 title: INI Files
 description: About the default (vanilla) INI files.
 published: true
-date: 2023-08-16T11:40:19.020Z
+date: 2023-08-16T12:06:39.888Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T11:36:00.880Z
@@ -79,5 +79,5 @@ You can view and edit all INI files through the INI Editor in Mod Organizer 2. I
 
 # INI Configuration
 
-- [INI Config *How to customise the vanilla INI files with BethINI.*](/getting-started/initial-setup/ini-config)
+- [INI Configuration *How to customise the vanilla INI files with BethINI.*](/en/getting-started/initial-setup/ini-config)
 {.links-list}

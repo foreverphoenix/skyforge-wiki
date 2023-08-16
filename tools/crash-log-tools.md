@@ -2,7 +2,7 @@
 title: Crash Log Tools
 description: How to install the Crash Log Tools plugin for Mod Organizer 2.
 published: true
-date: 2023-08-16T09:15:33.262Z
+date: 2023-08-16T09:16:03.795Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T09:15:33.262Z
@@ -30,4 +30,4 @@ Crash Log Tools is available on the Nexus.
 
 You should now be able to access **Crash Log Tools** through the Toolbar:
 
-![crash-log-tools-mo2.png](/tools/crash-log-tools-mo2.png){.align-center}
+![crash-log-tools-mo2.png](/tools/crash-log-tools-mo2.png)

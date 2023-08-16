@@ -2,7 +2,7 @@
 title: Crash Log Tools
 description: How to install the Crash Log Tools plugin for Mod Organizer 2.
 published: true
-date: 2023-08-16T09:16:03.795Z
+date: 2023-08-16T09:17:13.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T09:15:33.262Z
@@ -21,8 +21,6 @@ Additionally, the plugin will attempt to label known addresses in crash logs whi
 Crash Log Tools is available on the Nexus.
  
 - Download the latest version of [Crash Log Tools](https://www.nexusmods.com/skyrimspecialedition/mods/66743?tab=files).
-- In Mod Organizer 2, switch to the **Downloads** tab in the right pane.
-- Right-click the downloaded mod and select **Open File**.
 - Extract the downloaded archive into the **plugins** folder.
 - Restart Mod Organizer 2.
 

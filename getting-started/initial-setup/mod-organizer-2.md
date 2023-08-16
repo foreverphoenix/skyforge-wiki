@@ -2,7 +2,7 @@
 title: Mod Organizer 2
 description: How to set up Mod Organizer 2 for Skyrim SE
 published: true
-date: 2023-08-15T16:12:49.102Z
+date: 2023-08-16T08:21:26.629Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:37:50.614Z
@@ -49,7 +49,7 @@ You will be asked where to install Mod Organizer 2.
 - Selecting **an SSD or NVME is highly recommended** as it will improve load times and in-game performance.
 - The MO2 folder **will contain all your mods** which may add up to **100GB** and more.
   
-> For now, make sure you have <u>at least 50GB of free space</u> on whichever hard drive you choose. That will be sufficient to get started.
+> Make sure you have <u>at least 50GB of free space</u> on whichever hard drive you choose. That will be sufficient to get you started.
 {.is-success}
 
 ![mo2-installation-directory.png](/getting-started/initial-setup/mo2-installation-directory.png){.align-center}
@@ -90,68 +90,48 @@ I recommend disabling the log at the bottom as it is mostly unnecessary:
 
 I also recommend right-clicking the MO2 icon on your taskbar and **pinning** it for quick access.
 
-## MO2 Settings
+# MO2 Settings
 
 Open the **Settings** by clicking the first icon on the right in the toolbar.
 
-![MO2 Open Settings](/Pictures/skyforge/tool-setup/mo2/mo2-open-settings.png){.align-center}
+![mo2-open-settings.png](/getting-started/initial-setup/mo2-open-settings.png){.align-center}
 
-### Settings: General
+## Settings: General
 
 Under **Download List**, I highly recommend checking **Show meta information** and **Compact list**. This will affect the Downloads tab in the right pane of MO2 where all downloaded files will appear. As the list grows, a more compact view with information about the file version and type will become invaluable.
 
 >Check out the [default settings](https://i.imgur.com/BW4F4tD.png) versus the [compact settings](https://i.imgur.com/eNnzd6p.png).
+{.is-info}
 
-I personally do not use the **Hide downloads after installation** option. Of course, the list of downloads in my MO2 setups is hundreds of files long, and yes, hiding files after installing them would keep the downloads tab clean. All hidden mods can quickly be made visible again by ticking the **Hidden files** box at the bottom of the **Downloads** tab, and individual files can be hidden and unhidden at will. Personally, I prefer the simplicity of simply leaving everything visible and using the search bar to find what I am looking for. Once you start installing mods, you should make your own choice.
+## Settings: Themes
 
-### Settings: Themes
+Under **Style**, you can try out various other themes if the default light theme is not to your liking. If you want a simple dark theme, I recommend the **1809 Dark Mode** option. It is similar to the default light theme and will make following along with most screenshots on the wiki easier.
 
-While I personally prefer light mode in the majority of my apps and programs, I realise that my opinion is rather unpopular. Under **Style**, you can try out various other themes. If you are looking for a simple dark theme, I recommend the **1809 Dark Mode** option for now. It is similar to the default light theme and will make following along with my screenshots easier.
-
->Make sure to restart MO2 after changing the theme.
+> Make sure to restart MO2 after changing the theme.
+{.is-warning}
 
 The **Colors** section below affects the colors in which mods and separators will light up when highlighting them. I strongly suggest not tampering with them until you have a proper understanding of mod order and asset conflicts.
 
-### Settings: Paths
+## Settings: Paths
 
-Since we set up MO2 as a portable instance, all file paths to the various directories are currently within the MO2 installation itself: `/%BASE_DIR%/`, the base directory. We already discussed the potential size of the mods folder, which can easily exceed 50GB, but should nevertheless be located on a fast drive, ideally an SSD.
+With Mod Organizer 2 as a portable instance, all file paths to the various directories are currently within the MO2 installation itself: `/%BASE_DIR%/`, the base directory. To save space you can change the path for the **Downloads**, meaning the archives from which the mods are installed, to a slower hard drive where space is not as precious.
 
-However, **the downloaded archives from which the mods are installed do NOT need to be on an SSD**. They are only required for the initial installation and merely serve as backups afterwards.
+<font size="2">\**It should be noted that keeping downloaded archives on a faster drive may speed up mod installation, including for Wabbajack list.*</font>
 
-Keeping the archives is nevertheless recommended as you may want to reinstall a mod later on to choose different options if they come with an installer, or simply to restore it to the vanilla state if you modified it. Hence, I recommend changing the **Downloads** directory to a different drive. Pick the hard drive with the most amount of space; any HDD will do.\*
+<mark>This is a recommendation, not a requirement. Manage your disk space as you see fit.</mark>
 
-<font size="2">\**It should be noted that keeping downloaded archives on a faster drive may speed up mod installation, including for Wabbajack list. Nevertheless, SSD / NVME space is precious and I personally prefer to use it for more mods or other games.*</font>
+> The download archives are only required for the initial installation and only serve as backups afterwards. Keeping the archives is nevertheless recommended as you may want to reinstall a mod later on to choose different options if they come with an installer, or simply to restore it to the vanilla state if you modified it.
+{.is-info}
 
-{{< alert color="warning" >}}This is a recommendation, not a requirement. Manage your disk space as you see fit. {{< /alert >}}
+![mo2-downloads-folder.png](/getting-started/initial-setup/mo2-downloads-folder.png){.align-center}
 
-![Downloads Folder](/Pictures/skyforge/tool-setup/mo2/mo2-downloads-folder.png)
-
-## BSA Extractor 2
-
-Some of MO2's extra functionality is implemented via pre-installed plugins. Unfortunately, the default BSA extraction plugin may currently corrupt textures when used to extract BSAs, so I recommend installing a fixed version.
-
-- Close Mod Organizer 2 (always do this before installing plugins).
-- Download [BSA Extractor 2](https://www.nexusmods.com/skyrimspecialedition/mods/92044?tab=files) from the Nexus page.
-- Extract the **plugins** folder to `\Mod Organizer 2\` (the MO2 root folder).
-- Confirm to merge with existing **plugins** folder.
-
-### Configuration
-
-By default, BSA Extractor 2 will ask about unpacking the archive every time you install a mod that contains a BSA. This can be disabled (and I recommend doing so).
-
-- Restart Mod Organizer 2 and go into the [settings](/Pictures/skyforge/tool-setup/mo2/mo2-open-settings.png).
-- Switch to the **Plugins** tab and select **BSA Extractor 2** near the bottom of the list.
-- Double-click **enable_install_dialogue** and set it to **False**.
-
-![Settings](/Pictures/skyforge/tool-setup/mo2/configure-bsa-extractor-2.png)
-
-## New Profile
+# New Profile
 
 One of MO2's many lovely features is the ability to create an indefinite amount of self-contained **profiles**.
 
 Every profile has its own:
 
-- Load order
+- Load Order
 - Mod Order
 - Saves (optional)
 - INI Files (optional)

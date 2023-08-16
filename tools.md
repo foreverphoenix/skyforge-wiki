@@ -2,7 +2,7 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-16T12:40:50.292Z
+date: 2023-08-16T12:41:15.643Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
@@ -34,7 +34,7 @@ Always install plugins into the `\Mod Organizer 2\plugins\` folder and restart M
 - [SSEEdit *Community-made tool primarily for plugin modification.*](/en/tools/sseedit)
 - [BethINI *Configuration tool for the vanilla INIs with optimised settings.*](/en/tools/bethini)
 - [LOOT *Purpose.*](/en/tools/loot)
-- [Synthesis *Purpose.*](/en/tools/)
+- [Synthesis *Purpose.*](/en/tools/synthesis)
 - [NifSkope *Purpose.*](/en/tools/nifskope)
 - [Bethesda Archive Extractor *Purpose.*](/en/tools/bae)
 - [Cathedral Assets Optimizer *Purpose.*](/en/tools/cao)

@@ -2,7 +2,7 @@
 title: Mod Organizer 2
 description: How to set up Mod Organizer 2 for Skyrim SE
 published: true
-date: 2023-08-16T08:26:24.096Z
+date: 2023-08-16T08:27:06.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:37:50.614Z
@@ -39,7 +39,7 @@ Mod Organizer 2 is hosted on the Nexus and on Github.
 > Concerned about possible security risks? Read the [Nexus Virus Check](/knowledge-base/nexus-virus-check) article.
 {.is-info}
 
-### Installer Configuration
+## Installer Configuration
 
 In the installer, accept the license agreement and proceed to the next page.
 
@@ -164,8 +164,6 @@ The *left pane* of Mod Organizer 2 displays the **mod order**.
 Clicking on the sorting columns above the mod order, you will see a number of options.
 
 ![adjust-mo2-columns.png](/getting-started/initial-setup/adjust-mo2-columns.png){.align-center}
-
-### Flags
 
 - ✔️**Conflicts:** Displays little icons to show overwrites.
 - ✔️**Flags:** Not necessary, but recommended. Shows if notes are appended to a mod.*

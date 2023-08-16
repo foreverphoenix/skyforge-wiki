@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-15T15:39:37.778Z
+date: 2023-08-16T08:37:25.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -28,3 +28,20 @@ Perform a clean install of either the Steam or GOG version of Skyrim:
 - [Steam Installation *How to install the Steam version of Skyrim SE.*](/en/getting-started/initial-setup/steam)
 - [GOG Installation *How to install the GOG version of Skyrim SE.*](/en/getting-started/initial-setup/gog)
 {.links-list}
+
+# MO2 Instance
+
+With Skyrim all set up, it is time to create a new instance of Mod Organizer 2 with a custom set of INI files and optionally some useful third-party extensions.
+
+- [Mod Organizer 2 *How to set up Mod Organizer 2 for Skyrim SE.*](/en/getting-started/initial-setup/mod-organizer-2)
+{.links-list}
+
+## MO2 Plugins
+
+All Mod Organizer 2 plugins listed below are *optional* with the exception of **BSA Extractor 2** which you should <u>not</u> skip.
+
+- [BSA Extractor 2 *Fixes file corruption when extracting BSAs through MO2.*](/en/getting-started/initial-setup/mod-organizer-2)
+{.links-list}
+
+## INI Files
+

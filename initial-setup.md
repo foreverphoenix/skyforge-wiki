@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-16T12:16:04.194Z
+date: 2023-08-16T12:28:03.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -53,8 +53,8 @@ All Mod Organizer 2 plugins listed below are *optional*. I recommend installing 
 
 Various settings for the vanilla game can be configured in the Skyrim.ini and SkyrimPrefs.ini files. I recommend using BethINI to configure and optimise the set of INIs attached to your Mod Organizer 2 profile. This will not affect the default set under `\<Your User Name>\Documents\Skyrim Special Edition\`.
 
-- [INI Files *About the default (vanilla) INI files.*](/knowledge-base/ini-files)
-- [INI Configuration *How to modify the vanilla INI files with BethINI.*](/initial-setup/ini-config)
+- [INI Files *About the default (vanilla) INI files.*](/en/knowledge-base/ini-files)
+- [INI Configuration *How to modify the vanilla INI files with BethINI.*](/en/initial-setup/ini-config)
 {.links-list}
 
 # Creations

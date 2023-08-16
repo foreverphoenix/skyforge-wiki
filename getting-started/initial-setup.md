@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-16T09:20:27.556Z
+date: 2023-08-16T11:42:56.236Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -29,7 +29,7 @@ Perform a clean install of either the Steam or GOG version of Skyrim:
 - [GOG Installation *How to install the GOG version of Skyrim SE.*](/en/getting-started/initial-setup/gog)
 {.links-list}
 
-# MO2 Instance
+# Mod Organizer 2
 
 With Skyrim all set up, it is time to create a new instance of Mod Organizer 2 with a custom set of INI files and optionally some useful third-party extensions.
 
@@ -38,11 +38,21 @@ With Skyrim all set up, it is time to create a new instance of Mod Organizer 2 w
 
 ## MO2 Plugins
 
-All Mod Organizer 2 plugins listed below are *optional* with the exception of **BSA Extractor 2** which you should <u>not</u> skip.
+All Mod Organizer 2 plugins listed below are *optional*. I recommend installing at least **BSA Extractor 2** and **Mod Load Order Checker**.
 
 - [BSA Extractor 2 *Fixes file corruption when extracting BSAs.*](/en/tools/bsa-extractor-2)
+- [Curation Club *Allows you to quickly import Creations as mods.*](/en/tools/curation-club)
 - [Root Builder *Enables management of root folder files.*](/en/tools/root-builder)
-- [Crash Log Tools *Improves crash logs and makes them accessible through MO2.*](/en/tools/crash-log-tools){.links-list}
+- [Mod Load Order Checker *Creates a warning when plugins are loaded out of order.*](/tools/mod-load-order-checker)
+- [Crash Log Tools *Improves crash logs and makes them accessible through MO2.*](/en/tools/crash-log-tools)
+- [LOOT Warning Checker *Integrates LOOT warnings into the MO2 warning system.*](/en/tools/loot-warning-checker)
+- [NIF Preview *Adds the ability to preview and compare meshes side-by-side.*](/tools/nif-preview)
+{.links-list}
 
 ## INI Files
+
+- [INI Files *Adds the ability to preview and compare meshes side-by-side.*](/knowledge-base/ini-files)
+{.links-list}
+
+## Creations
 

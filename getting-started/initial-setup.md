@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-16T12:07:31.323Z
+date: 2023-08-16T12:16:04.194Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -25,15 +25,15 @@ The **Skyrim Anniversary Edition** (AE) is a DLC for Skyrim SE containing all Cr
 
 Perform a clean install of either the Steam or GOG version of Skyrim:
 
-- [Steam Installation *How to install the Steam version of Skyrim SE.*](/en/getting-started/initial-setup/steam)
-- [GOG Installation *How to install the GOG version of Skyrim SE.*](/en/getting-started/initial-setup/gog)
+- [Steam Installation *How to install the Steam version of Skyrim SE.*](/en/initial-setup/steam)
+- [GOG Installation *How to install the GOG version of Skyrim SE.*](/en/initial-setup/gog)
 {.links-list}
 
 # Mod Organizer 2
 
 With Skyrim all set up, it is time to create a new instance of Mod Organizer 2 with a custom set of INI files and optionally some useful third-party extensions.
 
-- [Mod Organizer 2 *How to set up Mod Organizer 2 for Skyrim SE.*](/en/getting-started/initial-setup/mod-organizer-2)
+- [Mod Organizer 2 *How to set up Mod Organizer 2 for Skyrim SE.*](/en/initial-setup/mod-organizer-2)
 {.links-list}
 
 ## MO2 Plugins
@@ -54,7 +54,7 @@ All Mod Organizer 2 plugins listed below are *optional*. I recommend installing 
 Various settings for the vanilla game can be configured in the Skyrim.ini and SkyrimPrefs.ini files. I recommend using BethINI to configure and optimise the set of INIs attached to your Mod Organizer 2 profile. This will not affect the default set under `\<Your User Name>\Documents\Skyrim Special Edition\`.
 
 - [INI Files *About the default (vanilla) INI files.*](/knowledge-base/ini-files)
-- [INI Configuration *How to modify the vanilla INI files with BethINI.*](/getting-started/initial-setup/ini-config)
+- [INI Configuration *How to modify the vanilla INI files with BethINI.*](/initial-setup/ini-config)
 {.links-list}
 
 # Creations

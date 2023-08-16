@@ -2,7 +2,7 @@
 title: BSA Extractor 2
 description: How to install the BSA Extractor 2 plugin for Mod Organizer 2.
 published: true
-date: 2023-08-16T08:13:52.754Z
+date: 2023-08-16T08:20:13.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T08:13:52.754Z

@@ -2,13 +2,13 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-16T08:10:08.384Z
+date: 2023-08-16T08:18:41.683Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
 ---
 
-# Header
-Your content here
+# Mod Organizer 2
 
-[mo2](/tools/mo2) {.links-list}
+- [MO2 Plugins *Recommended third-party extensions for Mod Organizer 2.*](/en/tools/mo2-plugins)
+{.links-list}

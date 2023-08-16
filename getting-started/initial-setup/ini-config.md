@@ -2,7 +2,7 @@
 title: INI Config
 description: How to modify the vanilla INI files with BethINI.
 published: true
-date: 2023-08-16T12:05:55.247Z
+date: 2023-08-16T12:16:36.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T12:05:55.247Z

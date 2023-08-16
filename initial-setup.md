@@ -2,7 +2,7 @@
 title: Initial Setup
 description: Placeholder
 published: true
-date: 2023-08-16T12:28:03.121Z
+date: 2023-08-16T12:28:19.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -43,10 +43,10 @@ All Mod Organizer 2 plugins listed below are *optional*. I recommend installing 
 - [BSA Extractor 2 *Fixes file corruption when extracting BSAs.*](/en/tools/bsa-extractor-2)
 - [Curation Club *Allows you to quickly import Creations as mods.*](/en/tools/curation-club)
 - [Root Builder *Enables management of root folder files.*](/en/tools/root-builder)
-- [Mod Load Order Checker *Creates a warning when plugins are loaded out of order.*](/tools/mod-load-order-checker)
+- [Mod Load Order Checker *Creates a warning when plugins are loaded out of order.*](/en/tools/mod-load-order-checker)
 - [Crash Log Tools *Improves crash logs and makes them accessible through MO2.*](/en/tools/crash-log-tools)
 - [LOOT Warning Checker *Integrates LOOT warnings into the MO2 warning system.*](/en/tools/loot-warning-checker)
-- [NIF Preview *Adds the ability to preview and compare meshes side-by-side.*](/tools/nif-preview)
+- [NIF Preview *Adds the ability to preview and compare meshes side-by-side.*](/en/tools/nif-preview)
 {.links-list}
 
 # INI Files

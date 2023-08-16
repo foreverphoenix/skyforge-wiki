@@ -2,7 +2,7 @@
 title: Mod Organizer 2
 description: How to set up Mod Organizer 2 for Skyrim SE
 published: true
-date: 2023-08-16T08:21:26.629Z
+date: 2023-08-16T08:26:24.096Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:37:50.614Z
@@ -136,41 +136,36 @@ Every profile has its own:
 - Saves (optional)
 - INI Files (optional)
 
-### Create New Profile
+## Create New Profile
 
-Open the MO2 profiles settings by clicking the ID card icon in the **Toolbar**.
-
-![MO2 Profiles Settings](/Pictures/skyforge/tool-setup/mo2/mo2-profiles-settings.png)
-
-Click the **Create** button and enter a name for your profile.
+- Open the MO2 profiles settings by clicking the [ID card icon](/getting-started/initial-setup/mo2-profiles-settings.png) in the **Toolbar**
+- Click the **Create** button and enter a name for your profile.
 
 I recommend naming your profile after the central mod or theme of the modlist you intend to build, like **Legacy of the Dragonborn**, **SimonRim**, or **Survival**. There is also nothing stopping you from simply calling it **Modded** as opposed to the unmodded **Default** profile.
 
-{{< alert color="info" >}}If you are following the **Core Module**, you can name it that.{{< /alert >}}
+Whether you check the **Default Game INI Settings** is up to you. I recommend leaving the option <u>enabled</u> and running BethINI later on to modify your INIs.
 
-Whether you check the **Default Game INI Settings** is really up to you. I recommend leaving the option enabled and running BethINI later on to modify your INIs.
-
-- Click **OK** to create your new profile.
-- I recommend enabling the **Use profile-specific Save Games** option at the bottom (while having your new profile selected).
+- Click **OK** to create your new profile and make sure it is selected.
+- I recommend enabling the **Use profile-specific Save Games** option at the bottom.
 - Click **Select** to quickly switch to your new profile.
 
-## Interface Adjustments
+# Interface Adjustments
 
 Below are my personal adjustments to the Mod Organizer 2 interface. Take them as suggestions (or ignore them).
 
-{{< alert color="warning" >}}If you are following the **Core Module** please do copy at least my changes to the categories displayed in the left pane.{{< /alert >}}
-
-### The Right Pane
+## The Right Pane
 
 The *right pane* of Mod Organizer 2 features a number of tabs, none of which require much space to properly display. I typically reduce it take up about a fourth of the entire interface, dragging around the columns in the **Plugins** tab so that all options are comfortably displayed without wasting too much space on the **Mod Index** column.
 
-### The Left Pane
+## The Left Pane
 
 The *left pane* of Mod Organizer 2 displays the **mod order**.
 
 Clicking on the sorting columns above the mod order, you will see a number of options.
 
-![MO Columns](/Pictures/skyforge/tool-setup/mo2/adjust-mo2-columns.png)
+![adjust-mo2-columns.png](/getting-started/initial-setup/adjust-mo2-columns.png){.align-center}
+
+### Flags
 
 - ✔️**Conflicts:** Displays little icons to show overwrites.
 - ✔️**Flags:** Not necessary, but recommended. Shows if notes are appended to a mod.*
@@ -187,14 +182,10 @@ Clicking on the sorting columns above the mod order, you will see a number of op
 
 <font size=2>\*\**You can also create a set of custom categories (instructions forthcoming).*</font>
 
-### My MO2 Layout
+## My MO2 Layout
 
 After some re-arranging of columns and ratios, this is what my MO2 instance (on a 1080p monitor) looks like:
 
-([Click here to view the picture in full size.](/Pictures/skyforge/tool-setup/mo2/mo2-my-layout.png))
+([Click here to view the picture in full size.](/getting-started/initial-setup/mo2-my-layout.png))
 
-![My Layout](/Pictures/skyforge/tool-setup/mo2/mo2-my-layout.png)
-
----
-
-#### If you are currently working through the Core Module, return to [Step 1](/skyforge/beginners-guide/step1/#ui-overview).
+![mo2-my-layout.png](/getting-started/initial-setup/mo2-my-layout.png)

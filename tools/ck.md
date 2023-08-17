@@ -2,7 +2,7 @@
 title: Creation Kit
 description: How to set up the Creation Kit for Skyrim SE.
 published: true
-date: 2023-08-17T12:18:27.785Z
+date: 2023-08-17T12:21:17.545Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T12:10:07.687Z
@@ -114,7 +114,7 @@ First, create a new separator in Mod Organizer 2 called **Creation Kit**. I reco
 
 Install both mods listed below:
 
-- [Tweaked Creation Kit Custom INI *A pre-configured Custom INI file with some necessary adjustments and improvements.*](/tools/ck/tweaked-ini)
+- [Tweaked Creation Kit Custom INI *A pre-configured Custom INI file with some necessary adjustments.*](/tools/ck/tweaked-ini)
 - [SSE Creation Kit Fixes *A comprehensive collection of tweaks & fixes for the CK.*](/tools/ck/ck-fixes)
 {.links-list}
 

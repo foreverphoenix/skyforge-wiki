@@ -2,7 +2,7 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-17T08:26:37.735Z
+date: 2023-08-17T09:56:48.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
@@ -10,7 +10,7 @@ dateCreated: 2023-08-05T07:56:52.727Z
 
 # Tool Installation
 
-Before installing any tools listed below I recommend creating a dedicated **Tools** folder.
+Before installing any tools I recommend creating a dedicated **Tools** folder.
 
 - [Tools Folder *How and where to set up a modding tools folder.*](/en/tools/tools-folder)
 {.links-list}

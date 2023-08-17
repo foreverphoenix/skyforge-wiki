@@ -2,13 +2,13 @@
 title: Curation Club
 description: How to install the Curation Club plugin for MO2.
 published: true
-date: 2023-08-16T09:22:43.116Z
+date: 2023-08-17T07:57:47.916Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T09:22:43.116Z
 ---
 
-> **Prerequisite(s):** [Mod Organizer 2](/getting-started/initial-setup/mod-organizer-2)
+> **Prerequisite(s):** [Mod Organizer 2](/mo2)
 
 # About Curation Club
 

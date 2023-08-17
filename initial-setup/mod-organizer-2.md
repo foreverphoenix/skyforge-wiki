@@ -1,8 +1,8 @@
 ---
-title: Mod Organizer 2
+title: MO2 Setup
 description: How to set up Mod Organizer 2 for Skyrim SE
 published: true
-date: 2023-08-17T08:23:17.153Z
+date: 2023-08-17T08:25:01.196Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:37:50.614Z

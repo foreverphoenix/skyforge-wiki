@@ -2,13 +2,13 @@
 title: NIF Preview
 description: How to install the NIF Preview plugin for MO2.
 published: true
-date: 2023-08-16T11:11:31.300Z
+date: 2023-08-17T10:16:46.493Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T11:11:31.300Z
 ---
 
-> **Prerequisite(s):** [Mod Organizer 2](/getting-started/initial-setup/mod-organizer-2)
+> **Prerequisite(s):** [Mod Organizer 2](/mo2)
 
 # About NIF Preview
 

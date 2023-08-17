@@ -2,7 +2,7 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-17T11:50:55.370Z
+date: 2023-08-17T16:59:15.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
@@ -17,7 +17,7 @@ Before installing any tools I recommend creating a dedicated **Tools** folder.
 
 # Modding Tools
 
-- [Creation Kit *Official modding tool released by Bethesda.*](/tools/creation-kit)
+- [Creation Kit *Official modding tool released by Bethesda.*](/tools/ck)
 - [SSEEdit *Community-made tool primarily for plugin modification.*](/en/tools/sseedit)
 - [BethINI *Configuration tool for the vanilla INIs with helpful tooltips and optimised settings.*](/tools/bethini)
 - [LOOT *Purpose.*](/tools/loot)

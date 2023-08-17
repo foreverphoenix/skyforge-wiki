@@ -2,7 +2,7 @@
 title: SSE Creation Kit Fixes
 description: How to install SSE Creation Kit Fixes
 published: true
-date: 2023-08-17T12:20:57.462Z
+date: 2023-08-17T17:00:28.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T12:20:57.462Z
@@ -10,7 +10,7 @@ dateCreated: 2023-08-17T12:20:57.462Z
 
 > **Prerequisite(s):** [Creation Kit](/tools/ck)
 
-## SSE Creation Kit Fixes
+# SSE Creation Kit Fixes
 
 **SSE Creation Kit Fixes** is a collection of improvements for the Creation Kit that make using the tool a much more pleasant experience. It also fixes a variety of problems and crashes.
 

@@ -2,13 +2,13 @@
 title: Modding Guides
 description: List of modding guides with recommendations and warnings.
 published: true
-date: 2023-08-17T10:04:04.530Z
+date: 2023-08-17T10:04:23.184Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T10:04:04.530Z
 ---
 
-# About Modding Guides
+# Modding Guides
 
 > This article is specifically discussing "traditional" modding guides which offer instructions for re-creating a pre-made setup consisting of a specific list of mods.
 {.is-info}

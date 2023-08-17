@@ -2,7 +2,7 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-17T11:05:11.422Z
+date: 2023-08-17T11:46:56.857Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
@@ -17,14 +17,14 @@ Before installing any tools I recommend creating a dedicated **Tools** folder.
 
 # Modding Tools
 
-- [Creation Kit *Official modding tool released by Bethesda.*](/en/tools/creation-kit)
+- [Creation Kit *Official modding tool released by Bethesda.*](/tools/creation-kit)
 - [SSEEdit *Community-made tool primarily for plugin modification.*](/en/tools/sseedit)
-- [BethINI *Configure vanilla INIs with helpful tooltips and optimised settings.*](/en/tools/bethini)
-- [LOOT *Purpose.*](/en/tools/loot)
+- [BethINI *Configure vanilla INIs with helpful tooltips and optimised settings.*](/tools/bethini)
+- [LOOT *Purpose.*](/tools/loot)
 - [Synthesis *Purpose.*](/en/tools/synthesis)
 - [NifSkope *Purpose.*](/en/tools/nifskope)
 - [Bethesda Archive Extractor *Quickly view Bethesda archives and (selectively) extract files.*](/en/tools/bae)
-- [Cathedral Assets Optimizer *Purpose.*](/en/tools/cao)
+- [Cathedral Assets Optimizer *Purpose.*](/tools/cao)
 - [SSELODGen *Generate terrain LOD and occlusion for your setup.*](/en/tools/sselodgen)
 - [DynDOLOD *Generate dynamic object, tree, and grass LOD for your setup.*](/en/tools/dyndolod)
 - [ACMOS Road Generator *Add roads and paths to terrain LOD for use with ACMOS.*](/tools/acmos-road-generator)

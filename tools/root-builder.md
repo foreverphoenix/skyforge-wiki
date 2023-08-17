@@ -2,13 +2,13 @@
 title: Root Builder
 description: How to install the Root Builder plugin for Mod Organizer 2.
 published: true
-date: 2023-08-16T09:17:08.891Z
+date: 2023-08-17T07:59:51.646Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T08:46:37.754Z
 ---
 
-> **Prerequisite(s):** [Mod Organizer 2](/getting-started/initial-setup/mod-organizer-2)
+> **Prerequisite(s):** [Mod Organizer 2](/mo2)
 
 # About Root Builder
 

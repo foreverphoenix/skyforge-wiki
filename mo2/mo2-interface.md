@@ -2,7 +2,7 @@
 title: Interface Adjustments
 description: Recommendations for customising the MO2 interface.
 published: true
-date: 2023-08-17T08:06:58.927Z
+date: 2023-08-17T08:12:22.386Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T08:06:58.927Z
@@ -11,6 +11,12 @@ dateCreated: 2023-08-17T08:06:58.927Z
 # Interface Adjustments
 
 Below are my personal adjustments to the Mod Organizer 2 interface. Take them as suggestions.
+
+## Log
+
+I recommend disabling the log at the bottom as it is mostly unnecessary:
+
+![disable-mo2-log.png](/mo2/disable-mo2-log.png){.align-center}
 
 ## The Right Pane
 

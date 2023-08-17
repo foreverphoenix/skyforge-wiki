@@ -2,21 +2,21 @@
 title: BSA Extractor 2
 description: How to install the BSA Extractor 2 plugin for Mod Organizer 2.
 published: true
-date: 2023-08-16T12:49:45.465Z
+date: 2023-08-17T07:56:18.679Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T08:13:52.754Z
 ---
 
-> **Prerequisite(s):** [Mod Organizer 2](/initial-setup/mod-organizer-2)
+> **Prerequisite(s):** [Mod Organizer 2](/mod-organizer-2)
 
 # Installation
 
 The default BSA extraction plugin packaged with Mod Organizer 2 may currently corrupt textures when used to unpack BSAs, so I recommend installing a fixed version.
 
-- Close Mod Organizer 2.
 - Download [BSA Extractor 2](https://www.nexusmods.com/skyrimspecialedition/mods/92044?tab=files) from the Nexus page.
 - Extract the contents of the **plugins** folder to `\Mod Organizer 2\plugins\`.
+- Restart Mod Organizer 2.
 
 ## Configuration
 

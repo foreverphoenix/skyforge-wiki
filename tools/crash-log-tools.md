@@ -2,13 +2,13 @@
 title: Crash Log Tools
 description: How to install the Crash Log Tools plugin for Mod Organizer 2.
 published: true
-date: 2023-08-16T09:17:13.788Z
+date: 2023-08-17T08:00:32.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T09:15:33.262Z
 ---
 
-> **Prerequisite(s):** [Mod Organizer 2](/getting-started/initial-setup/mod-organizer-2)
+> **Prerequisite(s):** [Mod Organizer 2](/mo2)
 
 # About Crash Log Tools
 

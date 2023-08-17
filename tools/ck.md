@@ -2,7 +2,7 @@
 title: Creation Kit
 description: How to set up the Creation Kit for Skyrim SE.
 published: true
-date: 2023-08-17T12:12:15.406Z
+date: 2023-08-17T12:17:43.427Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T12:10:07.687Z
@@ -112,26 +112,11 @@ There are multiple additional improvements we can install for the Creation Kit.
 
 First, create a new separator in Mod Organizer 2 called **Creation Kit**. I recommend placing it between the base game files (official master files and creations) and your other mods. You can move the new **Creation Kit - Source** and **Creation Kit - DialogueViews** "mods" below this new separator as well.
 
+Install both mods listed below:
 
-## Creation Kit Fixes
-
-We previously downgraded the Creation Kit to a previous version to be able to use this mod.
-
-- Download [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061?tab=files): **CK64Fixes Release 3.2** main file.
-
-### Regular Installation
-
-If you are <u>not</u> using [Root Builder](/mo2/root-builder), extract all files into your **root folder**.
-
-### Root Builder
-
-If you <u>are</u> using [Root Builder](/mo2/root-builder), install **Creation Kit Fixes** in Mod Organizer 2 like a mod and adjust the folder structure:
-
-- Right-click the mod and select **Open in Explorer**.
-- Create a new folder and name it **Root**.
-- Drag all files <u>except</u> for the **meta.ini** into the new folder.
-- Refresh MO2 with F5, right-click the mod, and select **Ignore missing data**.
-- Move the mod below **Tweaked Creation Kit INI** and activate it.
+- [Tweaked Creation Kit Custom INI *A pre-configured Custom INI file with some necessary adjustments and improvements.*](/tools/ck/tweaked-ini)
+- [SSE Creation Kit Fixes *A comprehensive collection of tweaks & fixes for the CK.*](/tools/ck/ck-fixes)
+{.links-list}
 
 # Separate CK EXE
 

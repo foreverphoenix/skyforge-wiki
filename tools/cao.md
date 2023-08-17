@@ -2,7 +2,7 @@
 title: Cathedral Assets Optimizer
 description: How to set up Cathedral Assets Optimizer.
 published: true
-date: 2023-08-17T11:44:45.253Z
+date: 2023-08-17T11:45:46.458Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T11:10:01.903Z
@@ -30,9 +30,9 @@ The author of CAO recommends creating an exclusion in [Windows Defender](https:/
 
 Third-party antivirus software, if you have any installed, may also cause CAO to not work properly (or at all) and you may need to create an exclusion for them as well. You should be able to find instructions by googling for the name of the antivirus and "exclusion".
 
-# Create BSA Profile
+# Presets
 
-Cathedral Assets Optimizer is built for a variety of use cases across multiple different games. Configurations can be saved as **presets** to avoid having to manually apply them when using the tool.
+Cathedral Assets Optimizer is built for a variety of use cases across multiple different games. Configurations can be saved as **profiles** (presets) to avoid having to manually apply them when using the tool.
 
 - [BSA Profile *How to create a CAO profile for packing and unpacking BSAs.*](/tools/cao/bsa-profile)
 {.links-list}

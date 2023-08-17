@@ -2,7 +2,7 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-17T11:49:39.895Z
+date: 2023-08-17T11:50:55.370Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
@@ -26,7 +26,7 @@ Before installing any tools I recommend creating a dedicated **Tools** folder.
 - [Bethesda Archive Extractor *Tool for viewing Bethesda archives and (selectively) extracting files.*](/en/tools/bae)
 - [Cathedral Assets Optimizer *Asset optimisation tool with a variety of use cases.*](/tools/cao)
 - [Octagon *Texture modification tool for changing resolution, compression, and more.*](/tools/octagon)
-- [SSELODGen *Tool for generating terrain LOD and occlusion for your setup.*](/en/tools/sselodgen)
-- [DynDOLOD *Tool for generating dynamic object, tree, and grass LOD for your setup.*](/en/tools/dyndolod)
+- [SSELODGen *LOD generation tool (object, tree, and terrain LOD, occlusion).*](/en/tools/sselodgen)
+- [DynDOLOD *LOD generation tool (dynamic object, tree, and grass LOD).*](/en/tools/dyndolod)
 - [ACMOS Road Generator *Tool for adding roads and paths to terrain LOD for use with ACMOS.*](/tools/acmos-road-generator)
 {.links-list}

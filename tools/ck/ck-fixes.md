@@ -2,7 +2,7 @@
 title: SSE Creation Kit Fixes
 description: How to install SSE Creation Kit Fixes
 published: true
-date: 2023-08-17T17:01:22.783Z
+date: 2023-08-17T17:01:36.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T12:20:57.462Z
@@ -29,5 +29,6 @@ If you <u>are</u> using [Root Builder](/mo2/root-builder), install **Creation Ki
 - Right-click the mod and select **Open in Explorer**.
 - Create a new folder and name it **Root**.
 - Drag all files <u>except</u> for the **meta.ini** into the new folder.
-- Press F5 to refresh Mod Organizer 2, *right-click* the mod, and select **Ignore missing data**.
+- Press F5 to refresh Mod Organizer 2.
+- *Right-click* the mod, and select **Ignore missing data**.
 - Move the mod below **Tweaked Creation Kit Custom INI** and activate it.

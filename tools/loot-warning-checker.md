@@ -2,13 +2,13 @@
 title: LOOT Warning Checker
 description: How to install the LOOT Warning Checker plugin for MO2.
 published: true
-date: 2023-08-16T09:36:51.140Z
+date: 2023-08-17T08:01:36.203Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T09:36:51.140Z
 ---
 
-> **Prerequisite(s):** [Mod Organizer 2](/getting-started/initial-setup/mod-organizer-2), [LOOT](/tools/loot)
+> **Prerequisite(s):** [Mod Organizer 2](/mo2), [LOOT](/tools/loot)
 
 # About LOOT Warning Checker
 

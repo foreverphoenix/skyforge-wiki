@@ -2,7 +2,7 @@
 title: Creation Kit
 description: How to set up the Creation Kit for Skyrim SE.
 published: true
-date: 2023-08-17T12:17:43.427Z
+date: 2023-08-17T12:18:27.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T12:10:07.687Z

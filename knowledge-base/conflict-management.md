@@ -2,7 +2,7 @@
 title: Conflict Management
 description: Different types of conflicts and how to address them.
 published: true
-date: 2023-08-18T11:31:15.975Z
+date: 2023-08-18T11:31:30.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T11:31:15.975Z
@@ -10,7 +10,7 @@ dateCreated: 2023-08-18T11:31:15.975Z
 
 # Conflict Management
 
-- [Plugins *Plugin basics: Records, Form IDs, load order, formats*](/knowledge-base/plugins)
+- [Plugins *Plugin basics: Records, Form IDs, load order, formats.*](/knowledge-base/plugins)
 {.links-list}
 
 **Conflicts** occur when two or more [plugins](/knowledge-base/plugins) modify the same record in different ways. Because of how plugins are structured it is very possible and indeed <u>normal</u> for plugins to interact with each other, even if they seem to have wildly different purposes.

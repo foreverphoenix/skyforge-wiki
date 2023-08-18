@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: Brief articles on a variety of topics related to Skyrim modding.
 published: true
-date: 2023-08-18T15:21:15.989Z
+date: 2023-08-18T15:28:22.327Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:54:35.068Z
@@ -19,6 +19,7 @@ dateCreated: 2023-08-15T15:54:35.068Z
 - [Plugins *Plugin basics: Records, form IDs, load order, formats.*](/knowledge-base/plugins)
 - [ESL Plugins *Usage and limitations of Elder Scrolls Light plugins.*](/knowledge-base/esl-plugins)
 - [Conflict Management *Different types of conflicts and how to address them.*](/knowledge-base/conflict-management)
+- [Late Loaders *Recognising and managing "late loader" plugins.*](/knowledge-base/late-loaders)
 {.links-list}
 
 ## Assets

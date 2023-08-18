@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: Brief articles on a variety of topics related to Skyrim modding.
 published: true
-date: 2023-08-18T11:58:21.571Z
+date: 2023-08-18T15:08:38.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:54:35.068Z
@@ -17,6 +17,7 @@ dateCreated: 2023-08-15T15:54:35.068Z
 - [Conflict Management *Different types of conflicts and how to address them.*](/knowledge-base/conflict-management)
 - [Assets *Asset basics: Types, loose vs packed, BSAs, mod order.*](/knowledge-base/assets)
 - [Asset Management *How Mod Organizer 2 can be used to manage assets.*](/knowledge-base/asset-management)
+- [Facegen *About facegen and how it determines NPC appearance.*](/knowledge-base/facegen)
 {.links-list}
 
 # Other

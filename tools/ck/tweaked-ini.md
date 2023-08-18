@@ -2,7 +2,7 @@
 title: Tweaked Creation Kit Custom INI
 description: How to install the Tweaked Creation Kit Custom INI.
 published: true
-date: 2023-08-17T12:13:52.409Z
+date: 2023-08-18T06:49:52.359Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T12:13:52.409Z
@@ -22,7 +22,7 @@ If you are <u>not</u> using [Root Builder](/mo2/root-builder), extract the INI f
 
 ## Root Builder
 
-If you <u>are</u> using [Root Builder](/mo2/root-builder), install the **Tweaked Custom INI** in Mod Organizer 2 like a mod and adjust the folder structure:
+If you <u>are</u> using [Root Builder](/mo2/root-builder), install the **Tweaked Creation Kit Custom INI** in Mod Organizer 2 like a mod and adjust the folder structure:
 
 - Right-click the new mod and select **Open in Explorer**.
 - Create a new folder and name it **Root**.

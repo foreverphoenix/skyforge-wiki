@@ -2,7 +2,7 @@
 title: Assets
 description: Asset basics: Types, loose vs packed, BSAs, mod order.
 published: true
-date: 2023-08-18T10:33:21.213Z
+date: 2023-08-18T10:51:00.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T10:33:21.213Z
@@ -93,6 +93,7 @@ It makes sense to BSA-pack assets from mods that serve as a baseline intended to
 You may also want to extract an archive in order to be able to compare its assets to other assets in your mod order. [NifSkope](/tools/nifskope), for example, can only load loose textures and meshes, not BSA-packed ones.
 
 # Further Reading
-    
+
+- [Asset Management *How Mod Organizer 2 can be used to manage assets.*](/knowledge-base/asset-management)
 - [Extracting BSAs *How to extract BSAs with BAE, CAO, or MO2.*](/guides-tutorials/extracting-bsas)
 {.links-list}

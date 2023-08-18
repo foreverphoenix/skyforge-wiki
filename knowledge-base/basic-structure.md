@@ -2,7 +2,7 @@
 title: Basic Structure
 description: Summary of basic files and folders for vanilla and mods.
 published: true
-date: 2023-08-18T09:33:42.251Z
+date: 2023-08-18T09:34:15.420Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T09:33:00.729Z
@@ -59,7 +59,7 @@ Mods containing **root folder files** can only be managed with [Mod Organizer 2]
 
 - [INI Files *Default (vanilla) INI files, content and differences.*](/knowledge-base/ini-files)
 - [Plugins *Plugin basics: Records, FormIDs, Load Order, Formats.*](/knowledge-base/plugins)
-- [Assets *Asset basics: Types, Loose vs Packed, Mod Order.*](/knowledge-base/ini-files)
+- [Assets *Asset basics: Types, Loose vs Packed, Mod Order.*](/knowledge-base/assets)
 {.links-list}
 
 

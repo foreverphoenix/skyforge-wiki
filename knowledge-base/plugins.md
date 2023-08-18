@@ -2,7 +2,7 @@
 title: Plugins
 description: Plugin basics: Records, FormIDs, Load Order, Formats
 published: true
-date: 2023-08-18T10:20:15.252Z
+date: 2023-08-18T11:34:12.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T09:38:30.061Z
@@ -169,3 +169,9 @@ The five official master files as well as any present [Creation Club](/knowledge
 
 > Plugins in **ESM space** (ESMs, ESLs, ESM-flagged ESPs) always load <u>above</u> and are overwritten by plugins in **ESP space** (ESPs, ESL-flagged ESPs).
 {.is-info}
+
+# Further Reading
+
+- [Conflict Management *Different types of conflicts and how to address them.*](/knowledge-base/conflict-management)
+- [ESL Plugins *Usage and limitations of Elder Scrolls Light plugins.*](/knowledge-base/conflict-management)
+{.links-list}

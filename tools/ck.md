@@ -2,7 +2,7 @@
 title: Creation Kit
 description: How to set up the Creation Kit for Skyrim SE.
 published: true
-date: 2023-08-17T12:21:17.545Z
+date: 2023-08-18T06:48:24.665Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T12:10:07.687Z
@@ -60,7 +60,7 @@ I recommend selecting the Creation Kit from the drop-down and adding a shortcut 
 
 Currently, Root Builder's cache does not include the CK files which means it will remove them from the root folder when an application is run through Mod Organizer 2. We need to rebuild the cache to solve this.
 
-The **CreationKitPrefs.ini** will be generated upon launching the Creation Kit and it may change if you change settings in the CK. To prevent Root Builder from tripping up over those changes, I recommend adding it to the list of excluded files.
+The **CreationKitPrefs.ini** will be generated upon launching the Creation Kit and it may change if you change settings in the CK. To prevent Root Builder from tripping up over those changes, I recommend adding the INI file to the list of excluded files.
 
 ![root-builder-clear-cache.png](/tools/root-builder-clear-cache.png){.align-center}
 
@@ -108,9 +108,9 @@ Finally, delete the **Scripts.zip** from your data folder.
 
 # Improving the CK
 
-There are multiple additional improvements we can install for the Creation Kit.
+There are some additional improvements we can install for the Creation Kit.
 
-First, create a new separator in Mod Organizer 2 called **Creation Kit**. I recommend placing it between the base game files (official master files and creations) and your other mods. You can move the new **Creation Kit - Source** and **Creation Kit - DialogueViews** "mods" below this new separator as well.
+First, create a new **separator** in Mod Organizer 2 called **Creation Kit**. I recommend placing it between the base game files (official master files and creations) and your other mods. You can move the new **Creation Kit - Source** and **Creation Kit - DialogueViews** "mods" below this new separator as well.
 
 Install both mods listed below:
 

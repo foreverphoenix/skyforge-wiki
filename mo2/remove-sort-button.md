@@ -2,7 +2,7 @@
 title: Remove Sort Button
 description: How to remove the integrated LOOT Sort button.
 published: true
-date: 2023-08-18T08:07:37.305Z
+date: 2023-08-18T08:17:23.421Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T08:06:54.089Z

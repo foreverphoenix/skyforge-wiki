@@ -1,8 +1,8 @@
 ---
 title: Plugins
-description: Plugin basics: Records, FormIDs, Load Order, Formats
+description: Plugin basics: Records, Form IDs, load order, formats.
 published: true
-date: 2023-08-18T11:34:12.915Z
+date: 2023-08-18T11:45:02.319Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T09:38:30.061Z

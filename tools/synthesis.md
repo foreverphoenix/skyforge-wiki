@@ -2,7 +2,7 @@
 title: Synthesis
 description: How to set up Synthesis.
 published: true
-date: 2023-08-18T09:01:32.890Z
+date: 2023-08-18T09:01:56.335Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T09:00:43.739Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-18T09:00:43.739Z
 
 # Synthesis
 
-**Synthesis** is an automated patching tool that is capable of processing a large amount of plugins in a short period of time and apply changes from one or more pre-made patchers. More and more mods are coming to rely on Synthesis-generated patches to ensure easy compatibility and integration.
+**Synthesis** is an automated patching tool that is capable of processing a large amount of plugins in a short period of time and apply changes from one or more pre-made patchers. Mods are increasingly coming to rely on Synthesis-generated patches to ensure easy compatibility and integration.
 
 ## Installation
 

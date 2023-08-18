@@ -2,7 +2,7 @@
 title: ESL Plugins
 description: Usage and limitations of Elder Scrolls Light plugins.
 published: true
-date: 2023-08-18T12:11:03.265Z
+date: 2023-08-18T12:12:46.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T12:10:29.150Z
@@ -52,7 +52,7 @@ If a plugin (ESP or ESM) does <u>not</u> add any new records (Form IDs), it can 
 > Never ESL-ify a plugin that adds a new interior CELL or you will [completely break it](/beginners-guide/myrwatch-broken.jpg) as soon as another plugin attempts to modify it in any way.
 {.is-danger}  
   
-If a plugin (ESP or ESM) <u>does</u> add new records (Form IDs), they may need to be compacted before ESL-flagging.
+If a plugin (ESP or ESM) <u>does</u> add new records (Form IDs), they may need to be **compacted** (renumbered) before ESL-flagging.
   
 Think about the differences in the Form ID format: While an ESP/ESM Form ID can have six character (+Index), an ESL can only have three (+Index). If there are Form IDs in the mod you wish to ESL-ify that extend beyond the final three characters, they have to be renumbered first to make room for the ESL Index.
 
@@ -61,10 +61,8 @@ Think about the differences in the Form ID format: While an ESP/ESM Form ID can 
 Notably, not <u>all</u> plugins with new records need compacting. For example, in *SkyUI_SE.esp*, the new Form IDs only use the final three characters which means the first five characters are already freed up for the ESL Index and no change is required before adding the ESL flag:
 
 ![skyui-forms.png](/knowledge-base/skyui-forms.png){.align-center}
-  
-## Compacting Form IDs
 
-When ESL-ifying a plugin that contains new record, you must compact its Form IDs first. This carries a risk: **Renumbering Form IDs will break the plugin's dependencies.** Any plugin that requires it as a *master* will be unable to find the original records that it is modifying, resulting in a wave of errors that will probably crash the game.
+**Renumbering Form IDs will break the plugin's dependencies.** Any plugin that requires it as a *master* will be unable to find the original records that it is modifying, resulting in a wave of errors that will probably crash the game.
 
 You can avoid this by doing the following:
 

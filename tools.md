@@ -2,7 +2,7 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-18T06:47:05.903Z
+date: 2023-08-18T08:16:10.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
@@ -20,7 +20,7 @@ Before installing any tools I recommend creating a dedicated **Tools** folder.
 - [Creation Kit *Official modding tool released by Bethesda.*](/tools/ck)
 - [SSEEdit *Community-made tool primarily for plugin modification.*](/tools/sseedit)
 - [BethINI *Configuration tool for the vanilla INIs with helpful tooltips and optimised settings.*](/tools/bethini)
-- [LOOT *Purpose.*](/tools/loot)
+- [Load Order Optimisation Tool *Plugin sorting tool drawing on a community-made masterlist.*](/tools/loot)
 - [Synthesis *Purpose.*](/tools/synthesis)
 - [NifSkope *Purpose.*](/tools/nifskope)
 - [Bethesda Archive Extractor *Tool for viewing Bethesda archives and (selectively) extracting files.*](/tools/bae)

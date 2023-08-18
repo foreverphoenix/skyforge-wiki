@@ -2,7 +2,7 @@
 title: Should I clean plugins?
 description: What plugin "cleaning" does and when it should be done.
 published: true
-date: 2023-08-18T11:07:21.427Z
+date: 2023-08-18T11:07:36.804Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T11:06:47.119Z
@@ -45,7 +45,7 @@ As with the official master files, I have yet to see an example of a mod where "
 
 I would not generally recommend "cleaning" plugins *for the sake of it*.
 
-Undeleting large references is a prerequisite for [DynDOLOD](/tools/dyndolod) NG, so you <u>should</u> clean plugins if you intend to use that. At the very least you need to make sure there are no deleted large references.
+Undeleting large references is a prerequisite for [DynDOLOD](/tools/dyndolod) NG, so you <u>should</u> clean plugins if you intend to use that. At the very least you need to make sure there are no deleted large [references](/knowledge-base/references).
 
 ITMs can sometimes cause unintentional conflicts, but those will be very visible in SSEEdit when you do your conflict resolution. You can address them then.
 

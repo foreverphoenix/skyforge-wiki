@@ -2,7 +2,7 @@
 title: Tool Installation
 description: Installation instructions for modding tools.
 published: true
-date: 2023-08-18T08:16:10.105Z
+date: 2023-08-18T08:24:02.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-05T07:56:52.727Z
@@ -21,9 +21,9 @@ Before installing any tools I recommend creating a dedicated **Tools** folder.
 - [SSEEdit *Community-made tool primarily for plugin modification.*](/tools/sseedit)
 - [BethINI *Configuration tool for the vanilla INIs with helpful tooltips and optimised settings.*](/tools/bethini)
 - [Load Order Optimisation Tool *Plugin sorting tool drawing on a community-made masterlist.*](/tools/loot)
-- [Synthesis *Purpose.*](/tools/synthesis)
-- [NifSkope *Purpose.*](/tools/nifskope)
-- [Bethesda Archive Extractor *Tool for viewing Bethesda archives and (selectively) extracting files.*](/tools/bae)
+- [Synthesis *Patcher applying user-made configurations to the entire load order.*](/tools/synthesis)
+- [NifSkope *Tool for opening, viewing, and modifying meshes.*](/tools/nifskope)
+- [Bethesda Archive Extractor *Tool for viewing Bethesda archives and extracting files.*](/tools/bae)
 - [Cathedral Assets Optimizer *Asset optimisation tool with a variety of use cases.*](/tools/cao)
 - [Octagon *Texture modification tool for changing resolution, compression, and more.*](/tools/octagon)
 - [SSELODGen *LOD generation tool (object, tree, and terrain LOD, occlusion).*](/tools/sselodgen)

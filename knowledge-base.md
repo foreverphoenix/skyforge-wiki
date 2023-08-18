@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: Brief articles on a variety of topics related to Skyrim modding.
 published: true
-date: 2023-08-18T15:19:36.965Z
+date: 2023-08-18T15:21:15.989Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:54:35.068Z
@@ -12,9 +12,17 @@ dateCreated: 2023-08-15T15:54:35.068Z
 
 - [Basic Structure *Folder structure and file types.*](/knowledge-base/basic-structure)
 - [INI Files *Default (vanilla) INI files, content and differences.*](/knowledge-base/ini-files)
+{.links-list}
+
+## Plugins
+
 - [Plugins *Plugin basics: Records, form IDs, load order, formats.*](/knowledge-base/plugins)
 - [ESL Plugins *Usage and limitations of Elder Scrolls Light plugins.*](/knowledge-base/esl-plugins)
 - [Conflict Management *Different types of conflicts and how to address them.*](/knowledge-base/conflict-management)
+{.links-list}
+
+## Assets
+
 - [Assets *Asset basics: Types, loose vs packed, BSAs, mod order.*](/knowledge-base/assets)
 - [Asset Management *How Mod Organizer 2 can be used to manage assets.*](/knowledge-base/asset-management)
 - [Facegen *About facegen and how it determines NPC appearance.*](/knowledge-base/facegen)

@@ -2,7 +2,7 @@
 title: SSELODGen
 description: How to set up SSELODGen.
 published: true
-date: 2023-08-18T08:51:14.213Z
+date: 2023-08-18T08:51:57.084Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T08:51:14.213Z
@@ -17,7 +17,7 @@ dateCreated: 2023-08-18T08:51:14.213Z
 ## Prerequisites
 
 - [ Microsoft Visual C++ Redistributable packages for Visual Studio 2015, 2017, 2019 and 2022](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-  - *Also required for [DynDOLOD](/skyforge/tool-setup/dyndolod/).*
+  - *Also required for [DynDOLOD](/tools/dyndolod).*
 
 # Installation
 

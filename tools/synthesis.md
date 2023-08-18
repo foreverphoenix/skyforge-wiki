@@ -2,13 +2,13 @@
 title: Synthesis
 description: How to set up Synthesis.
 published: true
-date: 2023-08-18T09:00:43.739Z
+date: 2023-08-18T09:01:32.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T09:00:43.739Z
 ---
 
-> **Prerequisite(s):** [Tools Folder](/tools/tools-folder), [Mod Organizer 2](/mo2
+> **Prerequisite(s):** [Tools Folder](/tools/tools-folder), [Mod Organizer 2](/mo2)
 
 # Synthesis
 

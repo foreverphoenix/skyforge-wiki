@@ -2,7 +2,7 @@
 title: ESL Plugins
 description: Usage and limitations of Elder Scrolls Light plugins.
 published: true
-date: 2023-08-18T12:10:29.150Z
+date: 2023-08-18T12:11:03.265Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T12:10:29.150Z
@@ -64,7 +64,7 @@ Notably, not <u>all</u> plugins with new records need compacting. For example, i
   
 ## Compacting Form IDs
 
-When ESL-ifying a plugin that contains new record, you must compact its Form IDs first. This carries a risk: **Renumbering Form IDs will break the plugins's dependencies.** Any plugin that requires it as a *master* will be unable to find the original records that it is modifying, resulting in a wave of errors that will probably crash the game.
+When ESL-ifying a plugin that contains new record, you must compact its Form IDs first. This carries a risk: **Renumbering Form IDs will break the plugin's dependencies.** Any plugin that requires it as a *master* will be unable to find the original records that it is modifying, resulting in a wave of errors that will probably crash the game.
 
 You can avoid this by doing the following:
 

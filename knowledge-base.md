@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: Brief articles on a variety of topics related to Skyrim modding.
 published: true
-date: 2023-08-18T15:08:38.243Z
+date: 2023-08-18T15:19:36.965Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:54:35.068Z
@@ -20,9 +20,14 @@ dateCreated: 2023-08-15T15:54:35.068Z
 - [Facegen *About facegen and how it determines NPC appearance.*](/knowledge-base/facegen)
 {.links-list}
 
+# LOD
+
+- [Distant LODs *About object, terrain, and tree LODs.*](/knowledge-base/distant-lods)
+- [Large Reference Bugs *Causes of and workarounds for the large reference bug.*](/knowledge-base/large-reference-bug)
+{.links-list}
+
 # Other
 
-- [Distant LODs *About object, terrain, and tree LODs..*](/knowledge-base/distant-lods)
 - [Nexus Virus Check *About the automatic virus check performed by the Nexus.*](/knowledge-base/nexus-virus-check)
 - [Creation Club *About the Creation Club.*](/knowledge-base/creation-club)
 {.links-list}

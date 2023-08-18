@@ -2,7 +2,7 @@
 title: Mod Organizer 2
 description: Setup, extensions, and customisation for Mod Organizer 2.
 published: true
-date: 2023-08-17T09:57:39.803Z
+date: 2023-08-18T07:11:00.563Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T07:32:27.250Z
@@ -18,8 +18,8 @@ Mod Organizer 2 is a mod manager geared toward enthusiast-level modders. With it
 ## Customisation
 
 - [Interface *Recommendations for customising the interface.*](/en/mo2/mo2-interface)
-- [Themes *Recommendations for customising the interface.*](/en/mo2/mo2-themes)
 - [Categories *Setting up and using custom categories.*](/en/mo2/mo2-categories)
+- [Sort Button *How to remove the integrated LOOT Sort button.*](/en/mo2/mo2-themes)
 {.links-list}
 
 # MO2 Plugins

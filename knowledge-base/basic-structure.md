@@ -2,7 +2,7 @@
 title: Basic Structure
 description: Summary of basic files and folders for vanilla and mods.
 published: true
-date: 2023-08-18T09:33:00.729Z
+date: 2023-08-18T09:33:42.251Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T09:33:00.729Z
@@ -40,7 +40,7 @@ The game consists of two types of files which are located inside the **data fold
 1. Plugins contain game data. They are specific to the Creation Engine.
 2. Assets include textures, sounds, and more. They are either loose or BSA-packed.
 
-Nearly all mods consist of plugins and/or assets and thus belong into the **data folder**. They can be managed with [Mod Organizer 2](/mo2).
+Nearly all mods consist of plugins and/or assets and belong into the **data folder**. They can be managed with [Mod Organizer 2](/mo2).
 
 ## Root Folder Files
 

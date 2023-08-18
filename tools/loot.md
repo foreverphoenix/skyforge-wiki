@@ -1,8 +1,8 @@
 ---
-title: LOOT
-description: How to set up LOOT.
+title: Load Order Optimisation Tool
+description: How to set up the Load Order Optimisation Tool (LOOT).
 published: true
-date: 2023-08-18T08:11:09.515Z
+date: 2023-08-18T08:11:43.942Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T08:11:09.515Z

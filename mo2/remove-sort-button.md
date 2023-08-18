@@ -2,7 +2,7 @@
 title: Remove Sort Button
 description: How to remove the integrated LOOT Sort button.
 published: true
-date: 2023-08-18T08:06:54.089Z
+date: 2023-08-18T08:07:37.305Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T08:06:54.089Z
@@ -52,7 +52,7 @@ Afterwards, you need to select the new stylesheet in the **Themes** tab in the M
 
 ## Different Theme
 
-If you are using a different theme, you can modify its stylesheet file (.QSS). Open it in a text editor and use CTRL+F to see if it modifies anything about the `#bossButton` component. Add the snippet from above, replacing any other code for the button.
+If you are using a different theme, you can modify its stylesheet file (.QSS) located inside the `\Mod Organizer 2\stylesheets\` folder. Open it in a text editor and use CTRL+F to see if it modifies anything about the `#bossButton` component. Add the snippet from above, replacing any other code for the button.
 
 > The component is named after BOSS, the predecessor of LOOT.
 {.is-info}

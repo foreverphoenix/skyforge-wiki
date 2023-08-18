@@ -2,7 +2,7 @@
 title: Synthesis
 description: How to set up Synthesis.
 published: true
-date: 2023-08-18T09:01:56.335Z
+date: 2023-08-18T09:02:15.688Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T09:00:43.739Z
@@ -33,7 +33,7 @@ Synthesis requires access to the data folder and must therefore be launched thro
 
 I recommend selecting the tool from the executables drop-down and adding a shortcut to the Toolbar for quick access.
 
-# Synthesis Profile
+# SSE Profile
 
 Upon launching Synthesis for the first time you will be able to configure it for your version of Skyrim.
 

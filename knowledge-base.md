@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: Brief articles on a variety of topics related to Skyrim modding.
 published: true
-date: 2023-08-20T08:47:11.655Z
+date: 2023-08-20T08:57:17.127Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:54:35.068Z
@@ -20,6 +20,7 @@ dateCreated: 2023-08-15T15:54:35.068Z
 - [ESL Plugins *Usage and limitations of Elder Scrolls Light plugins.*](/knowledge-base/esl-plugins)
 - [Conflict Management *Different types of conflicts and how to address them.*](/knowledge-base/conflict-management)
 - [Late Loaders *Recognising and managing "late loader" plugins.*](/knowledge-base/late-loaders)
+- [Max Height Data *About the Max Height Data (MHDT) value in plugins.*](knowledge-base/max-height-data)
 {.links-list}
 
 ## Assets

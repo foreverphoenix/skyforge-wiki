@@ -2,7 +2,7 @@
 title: Automating MCMs
 description: How to automate MCMs by modifying them directly.
 published: true
-date: 2023-08-20T08:40:51.507Z
+date: 2023-08-20T08:42:01.077Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-20T08:40:51.507Z
@@ -77,9 +77,11 @@ You will be greeted by a window with a list of all present script source files.
 
 ![ck-compile-script.png](/guides-tutorials/ck-compile-script.png){.align-center}
 
-The window will auto-close if the script was compiled successfully. Also check the [log window](/Pictures/skyforge/modding-resources/automating-mcms/script-no-errors.png) which should not contain any errors.
+The window will auto-close if the script was compiled successfully. Also check the **log window** which should not contain any errors (see below).
 
 Close the Creation Kit.
+
+![script-no-errors.png](/guides-tutorials/script-no-errors.png){.align-center}
 
 # Finalisation
 

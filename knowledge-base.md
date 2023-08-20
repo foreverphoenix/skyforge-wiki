@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: Brief articles on a variety of topics related to Skyrim modding.
 published: true
-date: 2023-08-18T15:28:22.327Z
+date: 2023-08-20T08:47:11.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:54:35.068Z
@@ -37,6 +37,7 @@ dateCreated: 2023-08-15T15:54:35.068Z
 
 # Other
 
+- [Mod Configuration Menus *How to configure MCMs and preserve changes across saves.*](/knowledge-base/mcm)
 - [Nexus Virus Check *About the automatic virus check performed by the Nexus.*](/knowledge-base/nexus-virus-check)
 - [Creation Club *About the Creation Club.*](/knowledge-base/creation-club)
 {.links-list}

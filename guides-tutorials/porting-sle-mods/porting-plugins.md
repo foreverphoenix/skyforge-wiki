@@ -2,7 +2,7 @@
 title: Porting Plugins
 description: How to port Skyrim LE plugins to Skyrim SE.
 published: true
-date: 2023-08-20T09:37:07.809Z
+date: 2023-08-20T09:42:52.012Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-20T09:37:07.809Z
@@ -25,39 +25,41 @@ Mod Organizer 2 will detect plugins with Form Version 43 when they are present i
 
 Using xEdit scripts to check for wrong form versions in your load order is unnecessary given the MO2 warning.
 
-![mo2-form-43-warning.png](/guides-tutorials/mo2-form-43-warning.png){.align-right}
+![mo2-form-43-warning.png](/guides-tutorials/mo2-form-43-warning.png){.align-center}
 
-### SSEEdit Plugin Header
+## SSEEdit Plugin Header
 
 You can see a plugin's form version in the **Plugin Header** in SSEEdit:
 
-![Wrong Form Version](/Pictures/skyforge/modding-resources/porting-sle-plugins/form-version-43.png)
+![form-version-43.png](/guides-tutorials/form-version-43.png){.align-center}
 
-### Resaving Plugins
+# Resaving Plugins
 
-Converting a plugin is as easy as opening and saving it in the SSE Creation Kit. This should be done with [SSE Creation Kit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) installed as the CK still misses some forms that require conversion. 
+Converting a plugin is as easy as opening and saving it in the SSE Creation Kit. This should be done with [SSE Creation Kit Fixes](https://skyforge.wiki/tools/ck/ck-fixes) installed as the CK still misses some forms that require conversion. 
 
 - Run the **Creation Kit** through Mod Organizer 2.
 - Click the little folder icon in the toolbar to open a plugin.
 
-![CK Open Plugin](/Pictures/skyforge/modding-resources/porting-sle-plugins/ck-open-plugin.png)
+![ck-open-plugin.png](/guides-tutorials/ck-open-plugin.png){.align-center}
 
-You can only ever load one active plugin in the Creation Kit. If you have multiple SLE plugins, resave them one at a time.
+You can only ever load <u>one</u> active plugin in the Creation Kit. If you have multiple SLE plugins, resave them one at a time.
 
 - Select the plugin you wish to resave and click **Set as Active File**.
 - Click **OK** to load the plugin.
 
 This will load the plugin and its masters. Wait until the CK says "done".
 
-![CK Done](/Pictures/skyforge/modding-resources/porting-sle-plugins/ck-done-loading.png)
+![ck-done-loading.png](/guides-tutorials/ck-done-loading.png){.align-center}
 
-- Click the [Save icon](/Pictures/skyforge/modding-resources/porting-sle-plugins/ck-save-plugin.png) in the toolbar.
+## Save Plugin
+
+- Go to **File** > **Save** or click the **Save** icon in the Toolbar.
 - Close the Creation Kit.
 
-{{< alert color="success" >}} And that's it! The plugin has been resaved successfully.{{< /alert >}}
+![ck-save-plugin.png](/guides-tutorials/ck-save-plugin.png){.align-center}
 
-![Correct Form Version](/Pictures/skyforge/modding-resources/porting-sle-plugins/form-version-44.png)
+## Form Version
 
-## Water Flow
+As you can see in SSEEdit, the plugin was converted successfully:
 
-## Landscape
+![form-version-44.png](/guides-tutorials/form-version-44.png){.align-center}

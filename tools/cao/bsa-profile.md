@@ -2,7 +2,7 @@
 title: BSA Profile
 description: How to create a CAO profile for creating and unpacking BSAs.
 published: true
-date: 2023-08-17T11:41:35.157Z
+date: 2023-08-20T09:26:24.843Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T11:25:19.886Z
@@ -24,7 +24,7 @@ When creating a new profile, use the pre-made profile for the same game as the b
 
 ![cao-sse-profile.png](/tools/cao-sse-profile.png){.align-center}
 
-- Enter **SSE - Create BSA** as the name.
+- Enter **SSE - BSA** as the name.
 - Confirm to use the **SSE** profile as the basis.
 
 ## Configuration

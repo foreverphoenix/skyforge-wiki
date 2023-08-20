@@ -1,8 +1,8 @@
 ---
 title: Porting Plugins
-description: How to port Skyrim LE plugins to Skyrim SE.
+description: How to port Skyrim LE plugins to Skyrim SE using the Creation Kit.
 published: true
-date: 2023-08-20T09:42:52.012Z
+date: 2023-08-20T09:44:41.257Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-20T09:37:07.809Z

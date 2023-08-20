@@ -2,7 +2,7 @@
 title: Cathedral Assets Optimizer
 description: How to set up Cathedral Assets Optimizer.
 published: true
-date: 2023-08-17T11:45:46.458Z
+date: 2023-08-20T09:57:37.297Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T11:10:01.903Z
@@ -35,4 +35,5 @@ Third-party antivirus software, if you have any installed, may also cause CAO to
 Cathedral Assets Optimizer is built for a variety of use cases across multiple different games. Configurations can be saved as **profiles** (presets) to avoid having to manually apply them when using the tool.
 
 - [BSA Profile *How to create a CAO profile for packing and unpacking BSAs.*](/tools/cao/bsa-profile)
+- [Porting Profile *How to create a CAO profile for optimising Skyrim LE assets.*](/tools/cao/porting-profile)
 {.links-list}

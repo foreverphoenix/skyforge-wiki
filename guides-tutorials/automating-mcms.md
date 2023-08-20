@@ -2,7 +2,7 @@
 title: Automating MCMs
 description: How to automate MCMs by modifying them directly.
 published: true
-date: 2023-08-20T08:42:01.077Z
+date: 2023-08-20T08:46:18.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-20T08:40:51.507Z
@@ -12,9 +12,10 @@ dateCreated: 2023-08-20T08:40:51.507Z
 
 # Automating MCMs
 
-In the following, I will explain how to modify a mod directly to change its default MCM options using the example of [Realistic Water Two](https://www.nexusmods.com/skyrimspecialedition/mods/2182) (RW2).
+- [Mod Configuration Menus *How to configure MCMs and preserve changes across saves.*](/knowledge-base/mcm)
+{.links-list}
 
-The mod has several option features which can be toggled in the MCM, including *ripples* and *waves*. When I am using [GKB Waves Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/71126), the RW2 waves features can be disable. When I am <u>not</u> using [Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115), I enable RW2's ripples on water.
+In the following, I will explain how to modify a mod directly to change its default MCM options using the example of [Realistic Water Two](https://www.nexusmods.com/skyrimspecialedition/mods/2182) (RW2). The mod has several option features which can be toggled in the MCM, including *ripples* and *waves*. When I am using [GKB Waves Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/71126), the RW2 waves features can be disable. When I am <u>not</u> using [Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115), I enable RW2's ripples on water.
 
 # Modifying Globals
 

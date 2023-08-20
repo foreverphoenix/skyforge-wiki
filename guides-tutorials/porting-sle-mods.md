@@ -2,7 +2,7 @@
 title: Porting SLE Mods
 description: SLE to SSE porting process for various types of files.
 published: true
-date: 2023-08-20T09:33:40.929Z
+date: 2023-08-20T09:46:48.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-20T09:33:40.929Z
@@ -20,30 +20,18 @@ Not all mods made for Skyrim LE will work out-of-the-box in Skyrim SE. A fair am
 - **SKSE Plugins:** Must always be ported for the newest version of SKSE.
 - **Meshes:** Should be processed with [Cathedral Assets Optimizer](/tools/cao) (though not always necessary).
 - **Textures:** Some older formats must be changed to avoid crashes. Compression recommended.
-- **Animations:** Should be processed with [Cathedral Assets Optimizer](/tools/cao).
+- **Animations:** Must be processed with [Cathedral Assets Optimizer](/tools/cao).*
 - **Scripts:** No porting steps required.
 
-## Plugins
+<font size=2>\**You can port vanilla replacers this way, but <u>not</u> [Fore's New Idles in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3038) (FNIS) animations.*</font>
 
-Plugins created for Skyrim LE must always be ported. This requires the [Creation Kit](/tools/creation-kit/) and sometimes [SSEEdit](/tools/sseedit) for additional steps.
+## Tutorials
 
-Check the [Porting SLE Plugins](/skyforge/modding-resources/porting-sle-plugins/) page for instructions.
-
-## Archives
-
-Archives (BSAs) created for Skyrim LE must always be extracted. They will otherwise crash Skyrim SE on launch.
-
-- [Extracting BSAs *How to extract BSAs with Mod Organizer 2, BAE, or CAO.*](/guides-tutorials/extracting-bsas)
+- [Porting Plugins *How to port Skyrim LE plugins to Skyrim SE using the Creation Kit.*](/guides-tutorials/porting-sle-mods/porting-plugins)
+- [Optimising Assets *How to port Skyrim LE assets to Skyrim SE using Cathedral Assets Optimizer.*](/guides-tutorials/porting-sle-mods/optimising-assets)
 {.links-list}
 
-# Assets
-
-Some **textures** and **meshes** as well as all **animations** created for Skyrim LE need to be optimised for Skyrim SE.
-
-> You cannot port [Fore's New Idles in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3038) (FNIS) animations this way, only vanilla replacers.
-{.is-warning}
-
-## Texture Compression
+# Texture Compression
 
 Textures created for Skyrim LE sometimes need to be compressed or changed to a different format for Skyrim SE.
 

@@ -1,8 +1,8 @@
 ---
 title: Mod Configuration Menus
-description: How to configure MCMs and save changes.
+description: How to configure MCMs and preserve changes across saves.
 published: true
-date: 2023-08-20T08:43:17.447Z
+date: 2023-08-20T08:45:28.859Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-20T08:43:17.447Z

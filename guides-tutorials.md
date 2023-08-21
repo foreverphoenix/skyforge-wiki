@@ -2,7 +2,7 @@
 title: Guides & Tutorials
 description: Modular instructions for various steps in modding Skyrim.
 published: true
-date: 2023-08-21T07:47:28.049Z
+date: 2023-08-21T08:49:32.095Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T10:54:38.428Z
@@ -22,6 +22,7 @@ dateCreated: 2023-08-18T10:54:38.428Z
 
 - [Extracting BSAs *How to extract BSAs with Mod Organizer 2, BAE, or CAO.*](/guides-tutorials/extracting-bsas)
 - [Cleaning Plugins *When and how to clean plugins with SSEEdit*](/guides-tutorials/cleaning-plugins)
+- [Creating ESL Plugins *How to create ESL plugins with SSEEdit.*](/guides-tutorials/creating-esl-plugins)
 - [ModGroups *How to use ModGroups for hiding harmless conflicts.*](/guides-tutorials/modgroups)
 - [Porting SLE Mods *SLE to SSE porting process for various types of files.*](/guides-tutorials/porting-sle-mods)
 - [LOD & Occlusion *How to generate LODs and Occlusion with SSELODGen and DynDOLOD.*](/guides-tutorials/lod-occlusion)

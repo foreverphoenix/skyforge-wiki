@@ -2,7 +2,7 @@
 title: LOD & Occlusion
 description: How to generate LODs and Occlusion with SSELODGen and DynDOLOD.
 published: true
-date: 2023-08-21T09:09:46.968Z
+date: 2023-08-21T09:13:15.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T09:09:46.968Z
@@ -84,7 +84,8 @@ Launch SSELODGen through Mod Organizer 2.
 - Check all worldspaces (unless you are doing temporary LODs for Tamriel only).
 - Make sure only **Terrain LOD** is checked.
 
-{{< alert color="info" >}}The LOD Level 32 settings are specific for ACMOS, but the resulting files are mostly overwritten if you are using a different map overhaul. They should not break anything when ACMOS is not present.{{< /alert >}}
+> The LOD Level 32 settings are specific for ACMOS, but the resulting files are mostly overwritten if you are using a different map overhaul. They should not break anything when ACMOS is not present.
+{.is-info}
 
 **Gamma:** Depending on your landscape texture choice, the generated Terrain LOD may be too dark compared to close-up textures. For example, the STEP team sets gamma to `1.25` in combination with [Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/21954).
 
@@ -105,7 +106,7 @@ Settings must be configured for <u>each</u> of the four LOD Levels. Switch betwe
 
 ## Roads Generation
 
-If using **A Clear Map for Skyrim and Other Worlds**, generate roads and paths for the map next.
+If using **A Clear Map for Skyrim and Other Worlds**, generate roads and paths for the map after SSELODGen has finished.
 
 - Run **ACMOS Road Generator.exe**.
 - Point **Path to LOD** to where you generated LODs to.
@@ -182,7 +183,7 @@ If you are unsure about the preset, pick **Medium** and see how it goes. You can
 
 ![dyndolod-settings-1.png](/guides-tutorials/dyndolod-settings-1.png){.align-center}
 
-## Mesh Rules
+## Tree Mesh Rules
 
 The previously select **Preset** affects the **Mesh Rules** in the central box. These determine the level of quality for different distant objects, with some (types of) meshes having very specific settings.
 
@@ -197,7 +198,9 @@ The following presets are recommended by the [STEP Guide](https://stepmodificati
 | <mark>Performance / Quality</mark>   | `Level0`      | `Level4`      | `Level1`       | 
 | Best Quality            | `Level0`      | `Level1`      | `Level2`       |
 
-![Tree Mesh Rules](/Pictures/skyforge/modding-resources/lod-occlusion/tree-mesh-rules.png)
+![tree-mesh-rules.png](/guides-tutorials/tree-mesh-rules.png){.align-center}
+
+## ACMOS Mesh Rules
 
 <mark><u>If you are using ACMOS</u> also change the **LOD Level 32** settings for the following mesh rules:</mark>
 

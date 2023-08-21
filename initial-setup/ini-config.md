@@ -1,17 +1,17 @@
 ---
-title: INI Config
+title: INI Configuration
 description: How to modify the vanilla INI files with BethINI.
 published: true
-date: 2023-08-16T12:16:36.559Z
+date: 2023-08-21T10:12:45.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T12:05:55.247Z
 ---
 
 
-> **Prerequisite(s):** [Mod Organizer 2](/getting-started/initial-setup/mod-organizer-2), [BethINI](/tools/bethini)
+> **Prerequisite(s):** [Mod Organizer 2](/mo2), [BethINI](/tools/bethini)
 
-# INI Config
+# INI Configuration
 
 To learn more about the default INI files and their contents, please consult the [INI Files](/knowledge-base/ini-files) article. It also covers how to use <u>profile-specific INI files</u> in Mod Organizer 2 which I highly recommend.
 
@@ -84,7 +84,7 @@ Once again, I do not recommend making changes here.
 - **Bethesda Modding Platform** should be <u>enabled</u>.
   - *You can use QUI to disable the menu options as they should not be used.*
 - **Mod Manager Menu** should be <u>disabled</u>.
-- **Lock Sensitivity** is best configured ingame where you can immediately test your settings.
+- **Look Sensitivity** is best configured ingame where you can immediately test your settings.
 	- *I prefer it set to <mark>0.0450</mark>.*
 
 ## BethINI: Detail

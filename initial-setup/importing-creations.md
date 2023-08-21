@@ -2,7 +2,7 @@
 title: Importing Creations
 description: How to import creations into MO2 as mods with Curation Club.
 published: true
-date: 2023-08-17T07:17:33.918Z
+date: 2023-08-21T10:08:24.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T07:17:33.917Z

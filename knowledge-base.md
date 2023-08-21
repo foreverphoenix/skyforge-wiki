@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: Brief articles on a variety of topics related to Skyrim modding.
 published: true
-date: 2023-08-21T07:05:00.525Z
+date: 2023-08-21T07:39:12.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:54:35.068Z
@@ -10,6 +10,7 @@ dateCreated: 2023-08-15T15:54:35.068Z
 
 # Modding Basics
 
+- [Skyrim Versions *Differences between Skyrim ports and updates.*](/knowledge-base/skyrim-versions)
 - [Basic Structure *Folder structure and file types.*](/knowledge-base/basic-structure)
 - [INI Files *Default (vanilla) INI files, content and differences.*](/knowledge-base/ini-files)
 {.links-list}

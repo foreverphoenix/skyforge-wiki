@@ -1,8 +1,8 @@
 ---
-title: Filter For Conflicts
+title: Filter for Conflicts
 description: How to apply a filter for conflicts in SSEEdit.
 published: true
-date: 2023-08-21T08:52:50.599Z
+date: 2023-08-21T08:53:23.953Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T08:52:50.599Z
@@ -10,11 +10,11 @@ dateCreated: 2023-08-21T08:52:50.599Z
 
 > **Prerequisite(s):** [SSEEdit](/tools/sseedit)
 
-# SSEEdit Filter
+# Filter for Conflicts
 
 **SSEEdit** has an indepth, customisable filter system with the ability to save settings as presets. A *filter for conflicts* can be extremely helpful for [conflict management](/knowledge-base/conflict-management).
 
-## Conflict Resolution Filter
+## Create Filter
 
 Conflicts can be identified by applying a filter in SSEEdit.
 

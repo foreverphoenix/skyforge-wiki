@@ -2,7 +2,7 @@
 title: Skyrim Script Extender
 description: How to install the Skyrim Script Extender and related mods.
 published: true
-date: 2023-08-21T07:52:49.020Z
+date: 2023-08-21T08:29:03.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T07:52:49.020Z
@@ -29,13 +29,13 @@ Before you proceed, familiarise yourself with the significance of version depend
 
 The Script Extender is available on its [official website](https://skse.silverlock.org/) and on the Nexus. <mark>Read carefully and make sure you are downloading the correct file.</mark>
 
-- Download the **Skyrim Script Extender** for **Steam** or **GOG** from the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files).
+- Download the **Skyrim Script Extender** for **Steam** or **GOG** from the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/30379?tab=files) (**Mod Manager Download**).
 
 The current version of SKSE for AE, build `2.x.x`, should correlate with the current Skyrim SE version, runtime `1.6.xxx`.
 
 ## Installing SKSE
 
-SKSE is an unusual mod in that it consists of both **root folder files** and **data folder files**. You can either drop all root folder files into the actual root folder or use the [Root Builder](/skyforge/tool-setup/root-builder/) plugin in order to manage all parts of the mod in Mod Organizer 2.
+SKSE is an unusual mod in that it consists of both **root folder files** and **data folder files**. You can either drop all root folder files into the actual root folder or use the [Root Builder](/mo2/root-builder) plugin in order to manage all parts of the mod in Mod Organizer 2.
 
 - [Regular Installation](/mods/skse/regular)
 - [Root Builder Installation](/mods/skse/root-builder)

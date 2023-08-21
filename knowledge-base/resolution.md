@@ -2,7 +2,7 @@
 title: Resolution
 description: About monitor resolutions (performance, interface, textures)
 published: true
-date: 2023-08-21T07:04:18.849Z
+date: 2023-08-21T07:05:31.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T07:04:18.849Z
@@ -27,7 +27,8 @@ Skyrim is known to scale badly at higher resolutions, especially when heavily mo
 
 An easy boost to performance at the cost of sharpness is gained by running the game at a resolution that is *lower* than the monitor's native resolution. For example, if performance is very low on a 2160p monitor, you can try downscaling to 1440p. This can be done with [SSE Display Tweaks](/mods/essentials/#sse-display-tweaks).
 
-{{< alert color="info" >}}Downscaling will noticeably affect visual fidelity and other measures of performance optimisation should be taken first. When downscaling, you can counter the blurriness by using ENB or ReShade to add sharpening.{{< /alert >}}
+> Downscaling will noticeably affect visual fidelity and other measures of performance optimisation should be taken first. When downscaling, you can counter the blurriness by using ENB or ReShade to add sharpening.
+{.is-warning}
 
 ## Interface
 

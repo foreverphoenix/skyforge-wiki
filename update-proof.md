@@ -2,7 +2,7 @@
 title: Update Proofing
 description: How to prevent the Steam version of Skyrim SE from updating automatically.
 published: true
-date: 2023-08-21T07:35:34.258Z
+date: 2023-08-21T07:35:50.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T07:35:00.149Z

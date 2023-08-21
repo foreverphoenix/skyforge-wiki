@@ -2,7 +2,7 @@
 title: Porting SLE Mods
 description: SLE to SSE porting process for various types of files.
 published: true
-date: 2023-08-21T09:38:31.183Z
+date: 2023-08-21T09:39:03.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-20T09:33:40.929Z
@@ -28,7 +28,7 @@ Not all mods made for Skyrim LE will work out-of-the-box in Skyrim SE. A fair am
 ## Tutorials
 
 - [Porting Plugins *How to port Skyrim LE plugins to Skyrim SE using the Creation Kit.*](/guides-tutorials/porting-sle-mods/porting-plugins)
-- [Optimising Assets *How to port Skyrim LE assets to Skyrim SE using Cathedral Assets Optimizer.*](guides-tutorials/porting-sle-mods/optimising-assets)
+- [Optimising Assets *How to port Skyrim LE assets to Skyrim SE using Cathedral Assets Optimizer.*](/guides-tutorials/porting-sle-mods/optimising-assets)
 {.links-list}
 
 # Texture Compression

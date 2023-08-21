@@ -2,15 +2,13 @@
 title: Steam Installation
 description: How to perform a clean install of the Steam version of Skyrim SE.
 published: true
-date: 2023-08-16T12:17:54.477Z
+date: 2023-08-21T09:43:56.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z
 ---
 
 # Uninstallation
-
-The installation location as well as left-over files from mods can affect your new setup. It is therefore recommended to start with a clean install of the game.
 
 If you currently have Skyrim installed, find the game in your Steam Library and uninstall it:
 

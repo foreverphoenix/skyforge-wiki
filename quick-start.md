@@ -2,7 +2,7 @@
 title: Quick Start
 description: Suggested procedure for building a new modded setup.
 published: true
-date: 2023-08-21T10:09:55.072Z
+date: 2023-08-21T10:13:41.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
@@ -44,7 +44,7 @@ Use this time to think about mods and themes for the setup you want to build: Ar
 3. [Import your Creations](/guides-tutorials/importing-creations) into Mod Organizer 2 (see below).
 4. Install the [Skyrim Script Extender](/mods/skse) and related mods.
 5. Set up a [Tools Folder](/tools) and install necessary tools (see below).
-6. Configure your [INI Files](/initial-setup/ini-config) with BethINI.
+6. Configure your [INI Files](/guides-tutorials/ini-config) with BethINI.
 
 ## Creation Club
 

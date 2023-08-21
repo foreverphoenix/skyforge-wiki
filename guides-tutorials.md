@@ -2,7 +2,7 @@
 title: Guides & Tutorials
 description: Modular instructions for various steps in modding Skyrim.
 published: true
-date: 2023-08-21T09:18:23.105Z
+date: 2023-08-21T10:09:01.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T10:54:38.428Z
@@ -16,6 +16,7 @@ dateCreated: 2023-08-18T10:54:38.428Z
 - [Skyrim Version Check *How to check which version of Skyrim is currently installed.*](/guides-tutorials/skyrim-version-check)
 - [Update Proofing *How to prevent the Steam version of Skyrim SE from updating automatically.*](/guides-tutorials/update-proofing)
 - [Downgrade Skyrim (Steam) *How to downgrade the Steam version of Skyrim SE.*](/guides-tutorials/skyrim-version-check/downgrade-steam)
+- [Importing Creations *How to import creations into MO2 as mods with Curation Club.*](/guides-tutorials/importing-creations)
 {.links-list}
 
 ## Modding

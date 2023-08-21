@@ -2,7 +2,7 @@
 title: Guides & Tutorials
 description: Modular instructions for various steps in modding Skyrim.
 published: true
-date: 2023-08-21T07:42:34.084Z
+date: 2023-08-21T07:47:28.049Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T10:54:38.428Z
@@ -10,7 +10,16 @@ dateCreated: 2023-08-18T10:54:38.428Z
 
 # Guides & Tutorials
 
+## Installation
+
+- [Clean Install *How to perform a clean install of Skyrim SE (Steam/GOG).*](/guides-tutorials/clean-install)
+- [Skyrim Version Check *How to check which version of Skyrim is currently installed.*](/guides-tutorials/skyrim-version-check)
 - [Update Proofing *How to prevent the Steam version of Skyrim SE from updating automatically.*](/guides-tutorials/update-proofing)
+- [Downgrade Skyrim (Steam) *How to downgrade the Steam version of Skyrim SE.*](/guides-tutorials/skyrim-version-check/downgrade-steam)
+{.links-list}
+
+## Modding
+
 - [Extracting BSAs *How to extract BSAs with Mod Organizer 2, BAE, or CAO.*](/guides-tutorials/extracting-bsas)
 - [Cleaning Plugins *When and how to clean plugins with SSEEdit*](/guides-tutorials/cleaning-plugins)
 - [ModGroups *How to use ModGroups for hiding harmless conflicts.*](/guides-tutorials/modgroups)

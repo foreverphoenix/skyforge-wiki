@@ -2,7 +2,7 @@
 title: Root Builder Installation
 description: How to install the Skyrim Script Extender with Root Builder.
 published: true
-date: 2023-08-21T08:26:57.851Z
+date: 2023-08-21T08:27:17.695Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T08:26:57.851Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-21T08:26:57.851Z
 
 # Root Builder Installation
 
-This page covers how to cover the [Skyrim Script Extender](/mods/skse) <u>with</u> [Root Builder](/mo2/root-builder).
+This page covers how to install the [Skyrim Script Extender](/mods/skse) <u>with</u> [Root Builder](/mo2/root-builder).
 
 ## Data Folder Files
 

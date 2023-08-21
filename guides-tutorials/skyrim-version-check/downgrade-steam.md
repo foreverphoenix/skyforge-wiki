@@ -2,7 +2,7 @@
 title: Downgrade Skyrim (Steam)
 description: How to downgrade the Steam version of Skyrim SE.
 published: true
-date: 2023-08-21T07:46:13.420Z
+date: 2023-08-21T07:46:30.709Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T07:46:13.420Z
@@ -22,8 +22,9 @@ The process is made painless by halgari’s automatic downgrade patcher.
 - Move the downloaded executable to your installation under `\Steam\steamapps\common\Skyrim Special Edition\`.
 - Run the executable and wait for it to finish (should take only a few seconds).
 
-To prevent Skyrim from automatically updating, consider 
-**update proofing** the game.
+## Update Proofing
+
+To prevent Skyrim from automatically updating, consider **update proofing** the game.
 
 - [Update Proofing *How to prevent the Steam version of Skyrim SE from updating automatically.*](/guides-tutorials/update-proofing)
 {.links-list}

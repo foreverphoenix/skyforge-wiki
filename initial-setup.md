@@ -1,8 +1,8 @@
 ---
-title: Initial Setup
-description: Placeholder
+title: Quick Start
+description: Suggested procedure for building a new modded setup.
 published: true
-date: 2023-08-16T12:48:20.583Z
+date: 2023-08-21T09:36:21.196Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z

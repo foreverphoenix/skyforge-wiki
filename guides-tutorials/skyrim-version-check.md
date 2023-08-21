@@ -2,7 +2,7 @@
 title: Skyrim Version Check
 description: How to check which version of Skyrim is currently installed.
 published: true
-date: 2023-08-21T07:47:55.611Z
+date: 2023-08-21T07:48:04.958Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T07:25:01.034Z
@@ -27,7 +27,7 @@ Follow these steps to find out which version of Skyrim you currently have instal
 
 ## Downgrade
 
-If your version of Skyrim SE does <u>not</u> correspond to the version specified above, you need to downgrade.
+If your version of Skyrim SE does <u>not</u> correspond to the version specified above, you should downgrade.
 
 - [Downgrade Skyrim (Steam) *How to downgrade the Steam version of Skyrim SE.*](/guides-tutorials/skyrim-version-check/downgrade-steam)
 {.links-list}

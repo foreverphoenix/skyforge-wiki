@@ -2,13 +2,13 @@
 title: Regenerating Facegen
 description: How to regenerate facegen with the Creation Kit.
 published: true
-date: 2023-08-21T09:33:09.261Z
+date: 2023-08-21T09:34:04.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T09:17:59.810Z
 ---
 
-> **Prerequisite(s):** [Creation Kit](/tools/creation-kit/), [Synthesis](/tools/synthesis/), [Cathedral Assets Optimizer](/tools/cao/)
+> **Prerequisite(s):** [Creation Kit](/tools/ck/), [Synthesis](/tools/synthesis/), [Cathedral Assets Optimizer](/tools/cao/)
 
 # Regenerating Facegen
 

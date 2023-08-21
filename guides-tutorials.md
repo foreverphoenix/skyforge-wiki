@@ -2,7 +2,7 @@
 title: Guides & Tutorials
 description: Modular instructions for various steps in modding Skyrim.
 published: true
-date: 2023-08-21T08:56:26.373Z
+date: 2023-08-21T09:18:23.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T10:54:38.428Z
@@ -26,6 +26,7 @@ dateCreated: 2023-08-18T10:54:38.428Z
 - [Creating ESL Plugins *How to create ESL plugins with SSEEdit.*](/guides-tutorials/creating-esl-plugins)
 - [ModGroups *How to use ModGroups for hiding harmless conflicts.*](/guides-tutorials/modgroups)
 - [Porting SLE Mods *SLE to SSE porting process for various types of files.*](/guides-tutorials/porting-sle-mods)
+- [Regenerating Facegen *How to regenerate facegen with the Creation Kit.*](/guides-tutorials/regenerating-facegen)
 - [LOD & Occlusion *How to generate LODs and Occlusion with SSELODGen and DynDOLOD.*](/guides-tutorials/lod-occlusion)
 - [Automating MCMs *How to automate MCMs by modifying them directly.*](/guides-tutorials/automating-mcms)
 {.links-list}

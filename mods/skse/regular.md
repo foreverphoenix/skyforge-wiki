@@ -2,7 +2,7 @@
 title: Regular Installation
 description: How to install the Skyrim Script Extender.
 published: true
-date: 2023-08-21T08:23:45.594Z
+date: 2023-08-21T08:27:13.501Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T08:17:12.718Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-21T08:17:12.718Z
 
 # Regular Installation
 
-This page covers how to cover the [Skyrim Script Extender](/mods/skse) the old-fashioned way <u>without</u> [Root Builder](/mo2/root-builder).
+This page covers how to install the [Skyrim Script Extender](/mods/skse) the old-fashioned way <u>without</u> [Root Builder](/mo2/root-builder).
 
 ## Root Folder Files
 

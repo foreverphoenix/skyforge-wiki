@@ -2,7 +2,7 @@
 title: Regular Installation
 description: How to install the Skyrim Script Extender.
 published: true
-date: 2023-08-21T08:28:06.927Z
+date: 2023-08-21T08:28:15.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T08:17:12.718Z
@@ -23,9 +23,7 @@ Open the downloaded archive and extract the following files into the **root fold
 
 <font size=2>*There used to be a third DLL, skse64_steam_loader.dll, that was part of SKSE. It is no longer required as of SKSE 2.2.3.*</font>
 
-- Restart Mod Organizer 2.
-
-The Skyrim Script Extender should have been automatically detected and added to the **Executables** drop-down.
+Restart Mod Organizer 2. The Skyrim Script Extender should have been automatically detected and added to the **Executables** drop-down.
 
 ## Data Folder Files
 

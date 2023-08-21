@@ -2,7 +2,7 @@
 title: Guides & Tutorials
 description: Modular instructions for various steps in modding Skyrim.
 published: true
-date: 2023-08-21T10:09:01.263Z
+date: 2023-08-21T10:13:12.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-18T10:54:38.428Z
@@ -21,6 +21,7 @@ dateCreated: 2023-08-18T10:54:38.428Z
 
 ## Modding
 
+- [INI Configuration *How to modify the vanilla INI files with BethINI.*](/guides-tutorials/ini-config)
 - [Extracting BSAs *How to extract BSAs with Mod Organizer 2, BAE, or CAO.*](/guides-tutorials/extracting-bsas)
 - [Cleaning Plugins *When and how to clean plugins with SSEEdit*](/guides-tutorials/cleaning-plugins)
 - [Filter for Conflicts *How to apply a filter for conflicts in SSEEdit.*](/guides-tutorials/filter-for-conflicts)

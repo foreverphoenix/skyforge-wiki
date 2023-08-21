@@ -2,7 +2,7 @@
 title: Update Proofing
 description: How to prevent the Steam version of Skyrim SE from updating automatically.
 published: true
-date: 2023-08-21T07:35:00.149Z
+date: 2023-08-21T07:35:34.258Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T07:35:00.149Z
@@ -14,6 +14,8 @@ dateCreated: 2023-08-21T07:35:00.149Z
 
 - [Skyrim Versions *Differences between Skyrim ports and updates.*](/knowledge-base/skyrim-versions)
 {.links-list}
+
+<mark>This only affects the **Steam** version of Skyrim SE.</mark>
 
 The version-specific nature of the [Skyrim Script Extender](/mods/skse) and related mods makes forced updates of the base game quite disruptive. They can completely break a modded setup, potentially rendering you unable to play until the modding scene has caught up.
 

@@ -2,13 +2,13 @@
 title: Quick Start
 description: Suggested procedure for building a new modded setup.
 published: true
-date: 2023-08-21T10:04:39.020Z
+date: 2023-08-21T10:09:55.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T14:28:04.744Z
 ---
 
-# Preface
+# Quick Start
 
 On this page I (Phoenix) am detailing <u>my process</u> when building a new modded setup. These are *general guidelines* rather than a set of hard-and-fast rules, and how you approach building a setup can (should!) depend heavily on what you specifically intend to create. That being said, I hope it can serve as a blueprint to get you started.
 
@@ -41,7 +41,7 @@ Use this time to think about mods and themes for the setup you want to build: Ar
 
 1. Perform a [Clean Install](/guides-tutorials/clean-install) of Skyrim SE.
 2. Set up a new instance of [Mod Organizer 2](/mo2) with some recommended [Plugins](/mo2#mo2-plugins).
-3. [Import your Creations](/guides-tutorials/managing-creations) into Mod Organizer 2 (see below).
+3. [Import your Creations](/guides-tutorials/importing-creations) into Mod Organizer 2 (see below).
 4. Install the [Skyrim Script Extender](/mods/skse) and related mods.
 5. Set up a [Tools Folder](/tools) and install necessary tools (see below).
 6. Configure your [INI Files](/initial-setup/ini-config) with BethINI.

@@ -2,7 +2,7 @@
 title: Steam Installation
 description: How to perform a clean install of the Steam version of Skyrim SE.
 published: true
-date: 2023-08-21T09:43:56.867Z
+date: 2023-08-21T09:47:27.988Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-15T15:13:23.115Z
@@ -24,7 +24,7 @@ If you had the **Creation Kit** for Skyrim SE installed through Steam, uninstall
 ## Mod Files
 
 > Skip this step if you never modded Skyrim before.
-{.is-info}
+{.is-warning}
 
 Steam will uninstall all vanilla files, but it will not touch mods. Any leftover files added by mods must be deleted manually.
 
@@ -34,7 +34,7 @@ Steam will uninstall all vanilla files, but it will not touch mods. Any leftover
 ## Documents Folder
 
 > Skip this step if you never ran Skyrim SE on this PC before (folder would not exist).
-{.is-info}
+{.is-warning}
 
 Next, we will take a look at the **Documents** folder.
 
@@ -56,9 +56,7 @@ The folder and INI files will be regenerated upon launching the game after the r
 > And that is all. Skyrim SE is now completely removed from your system.
 {.is-success}
 
-# Reinstallation
-
-## Game Language
+# Game Language
 
 Skyrim supports various languages natively, but mods do not. Since many mods also do not require translations in the first place and some of the ones that do have third-party translations available, it is theoretically possible to play modded in Skyrim in a language other than English.
 
@@ -72,14 +70,14 @@ Translating any records (and certain textures!) untouched by existing patches pl
 
 ![steam-skyrim-english.png](/getting-started/initial-setup/steam-skyrim-english.png){.align-center}
 
-## Installation Directory
+# Installation Directory
 
 **The location Skyrim is installed to matters.**
 
-1. Skyrim should be installed on your fastest drive, ideally an SSD, which will reduce load times and potentially improve performance.
-2. Skyrim must not be located within any UAC-protected folders.
+1. Skyrim <u>should</u> be installed on your fastest drive, ideally an SSD, which will reduce load times and potentially improve performance.
+2. Skyrim must <u>not</u> be located within any UAC-protected folders.
 
-### UAC-Protected Folders
+## UAC-Protected Folders
 
 Your Steam installation is likely located in `C:\Program Files x86\Steam\` and, by default, all Steam games are installed inside the Steam directory under `\Steam\steamapps\common\<Game>\`.
 
@@ -87,7 +85,7 @@ The problem is that `C:\Program Files\` and `C:\Program Files x86\` are so-calle
 
 That is why Skyrim SE should always be installed outside of these folders.
 
-### Steam Libraries
+## Steam Libraries
 
 When installing a game through Steam, you can select any of your **Steam Libraries** as the installation folder. The default Steam Library is within the Steam installation itself: `\Steam\steamapps\common\`.
 
@@ -108,7 +106,7 @@ Once set up, the new Steam Library can be selected as the installation directory
 
 ![add-steam-library.png](/getting-started/initial-setup/add-steam-library.png){.align-center}
 
-## Reinstalling Skyrim
+# Reinstalling Skyrim
 
 Now you can reinstall Skyrim.
 
@@ -139,5 +137,5 @@ A message box will pop up, informing you that Skyrim SE will now be configured b
 - Click the **PLAY** option in the launcher and wait until you are in the Skyrim main menu.
 - Quit the game from the main menu.
 
-> **Anniversary Edition:** Skyrim will prompt you with a message box in the main menu, then proceed to download the Creations. Wait for it to finish.
+> **Anniversary Edition:** Skyrim will prompt you with a message box in the main menu, then proceed to download the [creations](/knowledge-base/creation-club). Wait for it to finish.
 {.is-info}

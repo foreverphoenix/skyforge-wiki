@@ -1,8 +1,8 @@
 ---
 title: Home
-description: Introduction
+description: About the Skyforge Project, a beginner's guide and knowledge base for modding Skyrim SE.
 published: true
-date: 2023-08-17T08:27:34.397Z
+date: 2023-08-23T07:21:47.370Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-03T19:30:32.167Z

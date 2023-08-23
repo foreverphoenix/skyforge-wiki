@@ -2,7 +2,7 @@
 title: Mod Recommendations
 description: Installation and configuration instructions for recommended mods.
 published: true
-date: 2023-08-23T07:46:51.643Z
+date: 2023-08-23T07:47:34.996Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T07:06:43.109Z
@@ -15,6 +15,6 @@ dateCreated: 2023-08-21T07:06:43.109Z
 - [Skyrim Script Extender](/mods/skse)
 - [SkyUI](/mods/skyui)
 - [Frameworks](/mods/frameworks)
-- [Utilities]
-- [Essentials]
+- [Utilities](/mods/utilities)
+- [Essentials](/mods/essentials)
 {.links-list}

@@ -2,7 +2,7 @@
 title: Mod Recommendations
 description: Installation and configuration instructions for recommended mods.
 published: true
-date: 2023-08-23T07:47:34.996Z
+date: 2023-08-24T07:34:22.101Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T07:06:43.109Z
@@ -16,5 +16,6 @@ dateCreated: 2023-08-21T07:06:43.109Z
 - [SkyUI](/mods/skyui)
 - [Frameworks](/mods/frameworks)
 - [Utilities](/mods/utilities)
+- [Console](/mods/console)
 - [Essentials](/mods/essentials)
 {.links-list}

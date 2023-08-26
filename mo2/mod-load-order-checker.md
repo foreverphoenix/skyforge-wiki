@@ -2,7 +2,7 @@
 title: Mod Load Order Checker
 description: How to install the Mod Load Order Checker plugin for MO2.
 published: true
-date: 2023-08-21T10:05:20.755Z
+date: 2023-08-26T18:11:59.581Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T09:49:18.791Z
@@ -10,15 +10,15 @@ dateCreated: 2023-08-16T09:49:18.791Z
 
 > **Prerequisite(s):** [Mod Organizer 2](/getting-started/initial-setup/mod-organizer-2)
 
-# Mod Load Order Checker
+# Load Order Checker
 
-**Mod Load Order Checker** is a plugin for Mod Organizer 2 which adds a warning when *plugins* are being loaded out of order, i.e., a patch is placed before its master. Out-of-order plugins can be difficult to track, especially in a large load order, and they create broken dependencies which can prevent the game from launching properly and cause other issues.
+**Load Order Checker** is a plugin for Mod Organizer 2 which adds a warning when *plugins* are being loaded out of order, i.e., a patch is placed before its master. Out-of-order plugins can be difficult to track, especially in a large load order, and they create broken dependencies which can prevent the game from launching properly and cause other issues.
 
 ## Installation
 
-Mod Load Order Checker is available on the Nexus.
+Load Order Checker is available on the Nexus.
 
-- Download the latest version of [Mod Load Order Checker](https://www.nexusmods.com/site/mods/608?tab=files).
+- Download the latest version of [Load Order Checker](https://www.nexusmods.com/site/mods/608?tab=files).
 - Extract the downloaded archive into the **plugins** folder.
 - Restart Mod Organizer 2.
 

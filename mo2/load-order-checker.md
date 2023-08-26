@@ -1,8 +1,8 @@
 ---
-title: Mod Load Order Checker
-description: How to install the Mod Load Order Checker plugin for MO2.
+title: Load Order Checker
+description: How to install the Load Order Checker plugin for MO2.
 published: true
-date: 2023-08-26T18:11:59.581Z
+date: 2023-08-26T18:12:20.761Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T09:49:18.791Z

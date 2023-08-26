@@ -2,7 +2,7 @@
 title: Mod Organizer 2
 description: Setup, extensions, and customisation for Mod Organizer 2.
 published: true
-date: 2023-08-21T10:06:54.873Z
+date: 2023-08-26T18:12:51.288Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T07:32:27.250Z
@@ -29,7 +29,7 @@ Mod Organizer 2 is extensible with plugins. Some, like the texture preview, are 
 Always install plugins into the `\Mod Organizer 2\plugins\` folder and restart MO2 afterwards.
 
 - [BSA Extractor 2 *Fixes file corruption when extracting BSAs.*](/mo2/bsa-extractor-2)
-- [Mod Load Order Checker *Creates warnings when plugins are loaded out of order.*](/mo2/mod-load-order-checker)
+- [Load Order Checker *Creates warnings when plugins are loaded out of order.*](/mo2/load-order-checker)
 - [Curation Club *Allows you to quickly import Creations as mods.*](/mo2/curation-club)
 - [Root Builder *Enables management of root folder files.*](/mo2/root-builder)
 - [Crash Log Tools *Improves crash logs and makes them accessible through MO2.*](/mo2/crash-log-tools)

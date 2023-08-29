@@ -2,7 +2,7 @@
 title: LOD & Occlusion
 description: How to generate LODs and Occlusion with SSELODGen and DynDOLOD.
 published: true
-date: 2023-08-21T09:13:15.344Z
+date: 2023-08-29T09:05:08.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-21T09:09:46.968Z
@@ -195,7 +195,7 @@ The following presets are recommended by the [STEP Guide](https://stepmodificati
 | | LOD Level 4 | LOD Level 8 | LOD Level 16 |
 | ----------------------- | ----------- | ----------- | ------------ |
 | Best Performance        | `Billboard4`  | `Billboard4` | `Billboard1`   |
-| <mark>Performance / Quality</mark>   | `Level0`      | `Level4`      | `Level1`       | 
+| <mark>Performance / Quality</mark>   | `Level0`      | `Billboard4`      | `Billboard1`       | 
 | Best Quality            | `Level0`      | `Level1`      | `Level2`       |
 
 ![tree-mesh-rules.png](/guides-tutorials/tree-mesh-rules.png){.align-center}
